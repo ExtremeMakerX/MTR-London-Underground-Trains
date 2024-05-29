@@ -8,10 +8,18 @@
 		"ExtremeMakerX"
 	],
 	"contact": {
+		"homepage": "https://github.com/ExtremeMakerX/MTR-London-Underground-Trains",
 		"sources": "https://github.com/ExtremeMakerX/MTR-London-Underground-Trains",
-		"issues": "https://github.com/ExtremeMakerX/MTR-London-Underground-Trains/issues",
-		"discord": "https://discord.gg/TWJy8Hpkyx",
-		"modrinth": "https://modrinth.com/project/mtr-london-underground-trains"
+		"issues": "https://github.com/ExtremeMakerX/MTR-London-Underground-Trains/issues"
+	},
+	"custom": {
+		"fabric-renderer-api-v1:contains_renderer": true,
+		"modmenu": {
+			"links": {
+				"modmenu.discord": "https://discord.gg/TWJy8Hpkyx",
+				"modmenu.modrinth": "https://modrinth.com/project/mtr-london-underground-trains"
+			}
+		}
 	},
 	"license": "CC BY 4.0",
 	"icon": "icon.png",
