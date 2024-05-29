@@ -7,7 +7,13 @@
 	"authors": [
 		"ExtremeMakerX"
 	],
-	"license": "MIT",
+	"contact": {
+		"sources": "https://github.com/ExtremeMakerX/MTR-London-Underground-Trains",
+		"issues": "https://github.com/ExtremeMakerX/MTR-London-Underground-Trains/issues",
+		"discord": "https://discord.gg/TWJy8Hpkyx",
+		"modrinth": "https://modrinth.com/project/mtr-london-underground-trains"
+	},
+	"license": "CC BY 4.0",
 	"icon": "icon.png",
 	"environment": "*",
 	"entrypoints": {
