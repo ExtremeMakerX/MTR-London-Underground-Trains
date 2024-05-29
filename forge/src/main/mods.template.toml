@@ -1,0 +1,32 @@
+modLoader = "javafml"
+loaderVersion = "[36,)"
+license = "MIT"
+
+[[mods]]
+modId = "londonundergroundtrains"
+version = "@version@"
+displayName = "MTR London Underground Trains"
+authors = "ExtremeMakerX"
+description = "A London Underground Addon for the Minecraft Transit Railway Mod"
+logoFile = "icon.png"
+
+[[dependencies.londonundergroundtrains]]
+modId = "forge"
+mandatory = true
+versionRange = "[36,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.londonundergroundtrains]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[@minecraft@]"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.londonundergroundtrains]]
+modId = "mtr"
+mandatory = true
+versionRange = "[4.0.0-beta-7,4.1)"
+ordering = "AFTER"
+side = "BOTH"
