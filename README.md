@@ -16,4 +16,4 @@ This template is available under the CC-BY-4.0 license. Feel free to learn from 
 
 ## Let's connect
 
-[![Discord](https://raw.githubusercontent.com/ExtremeMakerX/MTR-London-Underground-Trains/master/images/page/discord.png)](https://discord.gg/TWJy8Hpkyx)
+[![Discord](https://raw.githubusercontent.com/ExtremeMakerX/MTR-London-Underground-Trains/master/images/page/discord.png?token=GHSAT0AAAAAACRWK22GD2HWRDVUUL225G76ZSXP3QA)](https://discord.gg/TWJy8Hpkyx)
