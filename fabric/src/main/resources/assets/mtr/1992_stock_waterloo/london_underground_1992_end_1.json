@@ -1,0 +1,215 @@
+{
+	"parts": [
+		{
+			"names": [
+				"latter_end"
+			],
+			"positionDefinitions": [
+				"latter1Flipped"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"door_left_curve"
+			],
+			"positionDefinitions": [
+				"doorEnd1"
+			],
+			"renderStage": "INTERIOR",
+			"doorZMultiplier": 15,
+			"doorAnimationType": "NORMAL"
+		},
+		{
+			"names": [
+				"door_right_curve"
+			],
+			"positionDefinitions": [
+				"doorEnd1Flipped"
+			],
+			"renderStage": "INTERIOR",
+			"doorZMultiplier": 15,
+			"doorAnimationType": "NORMAL"
+		},
+		{
+			"names": [
+				"end_light_1"
+			],
+			"positionDefinitions": [
+				"end1Flipped"
+			],
+			"renderStage": "LIGHT"
+		},
+		{
+			"names": [
+				"end_light_2"
+			],
+			"positionDefinitions": [
+				"end1Flipped"
+			],
+			"renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"end_curve"
+			],
+			"positionDefinitions": [
+				"end1Flipped"
+			],
+			"renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"end"
+			],
+			"positionDefinitions": [
+				"end1Flipped"
+			],
+			"renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"end_roof"
+			],
+			"positionDefinitions": [
+				"end1Flipped"
+			],
+			"renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"end_floor"
+			],
+			"positionDefinitions": [
+				"end1Flipped"
+			],
+			"type": "FLOOR"
+		},
+		{
+            "names": [
+                "doorway_left"
+            ],
+            "positionDefinitions": [
+                "doorEnd1"
+            ],
+            "type": "DOORWAY"
+        },
+		{
+            "names": [
+                "doorway_right"
+            ],
+            "positionDefinitions": [
+                "doorEnd1Flipped"
+            ],
+            "type": "DOORWAY"
+        },
+		{
+			"names": [
+				"end_exterior"
+			],
+			"positionDefinitions": [
+				"end1Flipped"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"door_left_floor"
+			],
+			"positionDefinitions": [
+				"doorEnd1"
+			],
+			"type": "FLOOR"
+		},
+		{
+			"names": [
+				"door_right_floor"
+			],
+			"positionDefinitions": [
+				"doorEnd1Flipped"
+			],
+			"type": "FLOOR"
+		},
+		{
+			"names": [
+				"doorway_left"
+			],
+			"positionDefinitions": [
+				"doorEnd1"
+			],
+			"type": "DOORWAY"
+		},
+		{
+			"names": [
+				"doorway_right"
+			],
+			"positionDefinitions": [
+				"doorEnd1Flipped"
+			],
+			"type": "DOORWAY"
+		},
+		{
+			"names": [
+				"door_left"
+			],
+			"positionDefinitions": [
+				"doorEnd1"
+			],
+			"renderStage": "INTERIOR",
+			"doorZMultiplier": 15,
+			"doorAnimationType": "NORMAL"
+		},
+		{
+			"names": [
+				"door_right"
+			],
+			"positionDefinitions": [
+				"doorEnd1Flipped"
+			],
+			"renderStage": "INTERIOR",
+			"doorZMultiplier": 15,
+			"doorAnimationType": "NORMAL"
+		},
+		{
+			"names": [
+				"door_left_exterior"
+			],
+			"positionDefinitions": [
+				"doorEnd1"
+			],
+			"renderStage": "EXTERIOR",
+			"doorZMultiplier": 15,
+			"doorAnimationType": "NORMAL"
+		},
+		{
+			"names": [
+				"door_right_exterior"
+			],
+			"positionDefinitions": [
+				"doorEnd1Flipped"
+			],
+			"renderStage": "EXTERIOR",
+			"doorZMultiplier": 15,
+			"doorAnimationType": "NORMAL"
+		},
+		{
+			"names": [
+				"door_inside_part_left"
+			],
+			"positionDefinitions": [
+				"doorEnd1"
+			],
+			"renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"door_inside_part_right"
+			],
+			"positionDefinitions": [
+				"doorEnd1Flipped"
+			],
+			"renderStage": "INTERIOR"
+		}
+	],
+	"modelYOffset": 1
+}

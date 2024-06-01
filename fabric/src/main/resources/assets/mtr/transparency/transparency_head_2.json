@@ -1,0 +1,23 @@
+{
+	"parts": [
+		{
+			"names": [
+				"head_transperent"
+			],
+			"positionDefinitions": [
+				"headEnd1Flipped"
+			],
+			"renderStage": "ALWAYS_ON_LIGHT"
+		},
+		{
+			"names": [
+				"head_transperent"
+			],
+			"positionDefinitions": [
+				"headEnd1Flipped"
+			],
+			"renderStage": "ALWAYS_ON_LIGHT"
+		}
+	],
+	"modelYOffset": 1
+}

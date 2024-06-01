@@ -1,0 +1,2110 @@
+{
+"vehicles": [
+		{
+			"id": "london_underground_1992_refit_cab_forward",
+			"name": "London Underground 1992 Refit (Cab Forward)",
+			"color": "960019",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "London_Underground_1992_Stock",
+			"tags": [
+				"family:london_underground_1992",
+				"iso_3166:GB",
+				"doors:4",
+				"type:cab_1"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_cab_forward.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_head_1.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_head_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": false,
+			"hasBarrier2": true,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+		{
+			"id": "london_underground_1992_refit_cab_backward",
+			"name": "London Underground 1992 Refit (Cab Backward)",
+			"color": "960019",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "London_Underground_1992_Stock",
+			"tags": [
+				"family:london_underground_1992",
+				"iso_3166:GB",
+				"doors:4",
+				"type:cab_2"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_cab_backward.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_head_2.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_head_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": true,
+			"hasBarrier2": false,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+		{
+			"id": "london_underground_1992_refit_trailer",
+			"name": "London Underground 1992 Refit (Trailer)",
+			"color": "960019",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "London_Underground_1992_Stock",
+			"tags": [
+				"family:london_underground_1992",
+				"iso_3166:GB",
+				"doors:4",
+				"type:car"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_trailer.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": true,
+			"hasBarrier2": true,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+		{
+			"id": "london_underground_1992_refit_power_trailer",
+			"name": "London Underground 1992 Refit (Power Trailer)",
+			"color": "960019",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "London_Underground_1992_Stock",
+			"tags": [
+				"family:london_underground_1992",
+				"iso_3166:GB",
+				"doors:4",
+				"type:car"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_trailer.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": true,
+			"hasBarrier2": true,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+		
+		{
+			"id": "london_underground_1992_refit_old_cab_forward",
+			"name": "London Underground 1992 Refit Old (Cab Forward)",
+			"color": "960019",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "London_Underground_1992_Stock",
+			"tags": [
+				"family:london_underground_1992",
+				"iso_3166:GB",
+				"doors:4",
+				"type:cab_1"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_cab_forward.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_head_1.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_head_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": false,
+			"hasBarrier2": true,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+		{
+			"id": "london_underground_1992_refit_old_cab_backward",
+			"name": "London Underground 1992 Refit Old (Cab Backward)",
+			"color": "960019",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "London_Underground_1992_Stock",
+			"tags": [
+				"family:london_underground_1992",
+				"iso_3166:GB",
+				"doors:4",
+				"type:cab_2"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_cab_backward.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_head_2.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_head_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": true,
+			"hasBarrier2": false,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+		{
+			"id": "london_underground_1992_refit_old_trailer",
+			"name": "London Underground 1992 Refit Old (Trailer)",
+			"color": "960019",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "London_Underground_1992_Stock",
+			"tags": [
+				"family:london_underground_1992",
+				"iso_3166:GB",
+				"doors:4",
+				"type:car"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_trailer.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": true,
+			"hasBarrier2": true,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+		{
+			"id": "london_underground_1992_refit_old_power_trailer",
+			"name": "London Underground 1992 Refit Old (Power Trailer)",
+			"color": "960019",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "London_Underground_1992_Stock",
+			"tags": [
+				"family:london_underground_1992",
+				"iso_3166:GB",
+				"doors:4",
+				"type:car"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_trailer.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_refit_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": true,
+			"hasBarrier2": true,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+
+		{
+			"id": "london_underground_1992_old_cab_forward",
+			"name": "London Underground 1992 Old (Cab Forward)",
+			"color": "960019",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "London_Underground_1992_Stock",
+			"tags": [
+				"family:london_underground_1992",
+				"iso_3166:GB",
+				"doors:4",
+				"type:cab_1"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_cab_forward.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_head_1.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_head_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": false,
+			"hasBarrier2": true,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+		{
+			"id": "london_underground_1992_old_cab_backward",
+			"name": "London Underground 1992 Old (Cab Backward)",
+			"color": "960019",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "London_Underground_1992_Stock",
+			"tags": [
+				"family:london_underground_1992",
+				"iso_3166:GB",
+				"doors:4",
+				"type:cab_2"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_cab_backward.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_head_2.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_head_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": true,
+			"hasBarrier2": false,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+		{
+			"id": "london_underground_1992_old_trailer",
+			"name": "London Underground 1992 Old (Trailer)",
+			"color": "960019",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "London_Underground_1992_Stock",
+			"tags": [
+				"family:london_underground_1992",
+				"iso_3166:GB",
+				"doors:4",
+				"type:car"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_trailer.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": true,
+			"hasBarrier2": true,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+		{
+			"id": "london_underground_1992_old_power_trailer",
+			"name": "London Underground 1992 Old (Power Trailer)",
+			"color": "960019",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "London_Underground_1992_Stock",
+			"tags": [
+				"family:london_underground_1992",
+				"iso_3166:GB",
+				"doors:4",
+				"type:car"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_trailer.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_standard/london_underground_1992_v2.bbmodel",
+					"textureResource": "mtr:1992_stock_standard/1992_stock_old_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_standard/london_underground_1992_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": true,
+			"hasBarrier2": true,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+
+		{
+			"id": "london_underground_1992_wc1_cab_forward",
+			"name": "London Underground 1992 W&C - TFL Livery (Cab Forward)",
+			"color": "960019",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "London_Underground_1992_Stock",
+			"tags": [
+				"family:london_underground_1992",
+				"iso_3166:GB",
+				"doors:4",
+				"type:cab_1"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_cab_forward.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_head_1.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_head_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": false,
+			"hasBarrier2": true,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+		{
+			"id": "london_underground_1992_wc1_cab_backward",
+			"name": "London Underground 1992 W&C - TFL Livery (Cab Backward)",
+			"color": "960019",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "London_Underground_1992_Stock",
+			"tags": [
+				"family:london_underground_1992",
+				"iso_3166:GB",
+				"doors:4",
+				"type:cab_2"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_cab_backward.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_head_2.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_head_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": true,
+			"hasBarrier2": false,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+		{
+			"id": "london_underground_1992_wc1_trailer",
+			"name": "London Underground 1992 W&C - TFL Livery (Trailer)",
+			"color": "960019",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "London_Underground_1992_Stock",
+			"tags": [
+				"family:london_underground_1992",
+				"iso_3166:GB",
+				"doors:4",
+				"type:car"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_trailer.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": true,
+			"hasBarrier2": true,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+		{
+			"id": "london_underground_1992_wc1_power_trailer",
+			"name": "London Underground 1992 W&C - TFL Livery (Power Trailer)",
+			"color": "960019",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "London_Underground_1992_Stock",
+			"tags": [
+				"family:london_underground_1992",
+				"iso_3166:GB",
+				"doors:4",
+				"type:car"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_trailer.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": true,
+			"hasBarrier2": true,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+
+		{
+			"id": "london_underground_1992_wc2_cab_forward",
+			"name": "London Underground 1992 W&C - TFL Livery - Green Seats (Cab Forward)",
+			"color": "960019",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "London_Underground_1992_Stock",
+			"tags": [
+				"family:london_underground_1992",
+				"iso_3166:GB",
+				"doors:4",
+				"type:cab_1"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_green_seat_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_cab_forward.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_green_seat_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_head_1.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_green_seat_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_head_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": false,
+			"hasBarrier2": true,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+		{
+			"id": "london_underground_1992_wc2_cab_backward",
+			"name": "London Underground 1992 W&C - TFL Livery - Green Seats (Cab Backward)",
+			"color": "960019",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "London_Underground_1992_Stock",
+			"tags": [
+				"family:london_underground_1992",
+				"iso_3166:GB",
+				"doors:4",
+				"type:cab_2"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_green_seat_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_cab_backward.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_green_seat_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_green_seat_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_head_2.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_head_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": true,
+			"hasBarrier2": false,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+		{
+			"id": "london_underground_1992_wc2_trailer",
+			"name": "London Underground 1992 W&C - TFL Livery - Green Seats (Trailer)",
+			"color": "960019",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "London_Underground_1992_Stock",
+			"tags": [
+				"family:london_underground_1992",
+				"iso_3166:GB",
+				"doors:4",
+				"type:car"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_green_seat_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_trailer.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_green_seat_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_green_seat_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": true,
+			"hasBarrier2": true,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+		{
+			"id": "london_underground_1992_wc2_power_trailer",
+			"name": "London Underground 1992 W&C - TFL Livery - Green Seats (Power Trailer)",
+			"color": "960019",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "London_Underground_1992_Stock",
+			"tags": [
+				"family:london_underground_1992",
+				"iso_3166:GB",
+				"doors:4",
+				"type:car"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_green_seat_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_trailer.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_green_seat_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:1992_stock_waterloo/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:1992_stock_waterloo/1992_stock_waterloo_city_green_seat_texture.png",
+					"modelPropertiesResource": "mtr:1992_stock_waterloo/london_underground_1992_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": true,
+			"hasBarrier2": true,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+
+		{
+			"id": "british_rail_482_cab_forward",
+			"name": "BR 482 W&C - British Rail Livery (Cab Forward)",
+			"color": "000080",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "British_Rail_Class_482",
+			"tags": [
+				"family:british_rail_class_482",
+				"iso_3166:GB",
+				"doors:4",
+				"type:cab_1"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_cab_forward.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_head_1.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_end_2.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_head_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": false,
+			"hasBarrier2": true,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+		{
+			"id": "british_rail_482_cab_backward",
+			"name": "BR 482 W&C - British Rail Livery (Cab Backward)",
+			"color": "000080",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "British_Rail_Class_482",
+			"tags": [
+				"family:british_rail_class_482",
+				"iso_3166:GB",
+				"doors:4",
+				"type:cab_2"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_cab_backward.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_end_1.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_head_2.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_head_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": true,
+			"hasBarrier2": false,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+		{
+			"id": "british_rail_482_trailer",
+			"name": "BR 482 W&C - British Rail Livery (Trailer)",
+			"color": "000080",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "British_Rail_Class_482",
+			"tags": [
+				"family:british_rail_class_482",
+				"iso_3166:GB",
+				"doors:4",
+				"type:car"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_trailer.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_end_1.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_end_2.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": true,
+			"hasBarrier2": true,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+		{
+			"id": "british_rail_482_power_trailer",
+			"name": "BR 482 W&C - British Rail Livery (Power Trailer)",
+			"color": "000080",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "British_Rail_Class_482",
+			"tags": [
+				"family:british_rail_class_482",
+				"iso_3166:GB",
+				"doors:4",
+				"type:car"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_trailer.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_end_1.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_end_2.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": true,
+			"hasBarrier2": true,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+
+		{
+			"id": "british_rail_482_no_logo_cab_forward",
+			"name": "BR 482 W&C - British Rail Livery No Logo (Cab Forward)",
+			"color": "000080",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "British_Rail_Class_482",
+			"tags": [
+				"family:british_rail_class_482",
+				"iso_3166:GB",
+				"doors:4",
+				"type:cab_1"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_no_logo_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_cab_forward.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_no_logo_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_head_1.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_no_logo_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_end_2.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_head_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": false,
+			"hasBarrier2": true,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+		{
+			"id": "british_rail_482_no_logo_cab_backward",
+			"name": "BR 482 W&C - British Rail Livery No Logo (Cab Backward)",
+			"color": "000080",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "British_Rail_Class_482",
+			"tags": [
+				"family:british_rail_class_482",
+				"iso_3166:GB",
+				"doors:4",
+				"type:cab_2"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_no_logo_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_cab_backward.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_no_logo_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_end_1.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_no_logo_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_head_2.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_head_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": true,
+			"hasBarrier2": false,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+		{
+			"id": "british_rail_482_no_logo_trailer",
+			"name": "BR 482 W&C - British Rail Livery No Logo (Trailer)",
+			"color": "000080",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "British_Rail_Class_482",
+			"tags": [
+				"family:british_rail_class_482",
+				"iso_3166:GB",
+				"doors:4",
+				"type:car"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_no_logo_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_trailer.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_no_logo_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_end_1.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_no_logo_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_end_2.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": true,
+			"hasBarrier2": true,
+			"bveSoundBaseResource": "london_underground_1992"
+		},
+		{
+			"id": "british_rail_482_no_logo_power_trailer",
+			"name": "BR 482 W&C - British Rail Livery No Logo (Power Trailer)",
+			"color": "000080",
+			"transportMode": "TRAIN",
+			"width": 2,
+			"length": 17.35,
+			"bogie1Position": -5.4,
+			"bogie2Position": 5.4,
+			"couplingPadding1": 0,
+			"couplingPadding2": 0,
+			"wikipediaArticle": "British_Rail_Class_482",
+			"tags": [
+				"family:british_rail_class_482",
+				"iso_3166:GB",
+				"doors:4",
+				"type:car"
+			],
+			"models": [
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_no_logo_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_trailer.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_no_logo_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_end_1.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+					"textureResource": "mtr:british_rail_class_482/br482_no_logo_texture.png",
+					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_end_2.json",
+					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				},
+				{
+					"modelResource": "mtr:transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+				}
+			],
+			"bogie1Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"bogie2Models": [
+				{
+					"modelResource": "mtr:bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:bogie/origin.json"
+				}
+			],
+			"hasGangway1": false,
+			"hasGangway2": false,
+			"hasBarrier1": true,
+			"hasBarrier2": true,
+			"bveSoundBaseResource": "london_underground_1992"
+		}
+    ]
+}
