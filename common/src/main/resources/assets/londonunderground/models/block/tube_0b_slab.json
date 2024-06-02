@@ -1,8 +1,0 @@
-{
-	"parent": "minecraft:block/slab",
-	"textures": {
-		"bottom": "londonunderground:block/gray_concrete",
-		"top": "londonunderground:block/gray_concrete",
-		"side": "londonunderground:block/gray_concrete"
-	}
-}

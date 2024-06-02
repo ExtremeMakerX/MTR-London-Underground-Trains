@@ -1,8 +1,0 @@
-{
-	"parent": "londonunderground:block/sign_base",
-	"textures": {
-		"3": "londonunderground:block/pride",
-		"5": "londonunderground:block/gray_concrete",
-		"particle": "londonunderground:block/pride"
-	}
-}
