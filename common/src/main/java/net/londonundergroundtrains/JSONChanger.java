@@ -1,17 +1,22 @@
+package net.londonundergroundtrains;
+
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.SerializationFeature;
 import com.fasterxml.jackson.databind.node.ObjectNode;
 
 import java.io.*;
+import java.net.MalformedURLException;
+import java.net.URISyntaxException;
+import java.net.URL;
 
 public class JSONChanger {
 
-    public void disableLUComplementaryReimagined() throws IOException {
-        String fileName = "common/src/main/resources/assets/mtr/mtr_custom_resources.json";
+    public static void disableLUComplementaryReimagined() throws IOException, URISyntaxException {
+        String fileName = "assets/mtr/mtr_custom_resources.json";
 
-        // Read the JSON file
-        File file = new File(fileName);
+        JSONChanger jsonChanger = new JSONChanger();
+        File file = jsonChanger.getFileFromResource(fileName);
 
         if (file.exists()) {
             ObjectMapper objectMapper = new ObjectMapper();
@@ -27,16 +32,17 @@ public class JSONChanger {
 
             objectMapper.configure(SerializationFeature.INDENT_OUTPUT, true);
             objectMapper.writeValue(file, jsonNode);
+
         } else {
             System.out.println("File does not exist: " + fileName);
         }
     }
 
-    public void enableLUComplementaryReimagined() throws IOException {
-        String fileName = "common/src/main/resources/assets/mtr/mtr_custom_resources.json";
+    public static void enableLUComplementaryReimagined() throws IOException, URISyntaxException {
+        String fileName = "assets/mtr/mtr_custom_resources.json";
 
-        // Read the JSON file
-        File file = new File(fileName);
+        JSONChanger jsonChanger = new JSONChanger();
+        File file = jsonChanger.getFileFromResource(fileName);
 
         if (file.exists()) {
             ObjectMapper objectMapper = new ObjectMapper();
@@ -52,6 +58,7 @@ public class JSONChanger {
 
             objectMapper.configure(SerializationFeature.INDENT_OUTPUT, true);
             objectMapper.writeValue(file, jsonNode);
+
         } else {
             System.out.println("File does not exist: " + fileName);
         }
@@ -61,10 +68,17 @@ public class JSONChanger {
         for (String str : array) {
             JsonNode node = customTrains.get(str);
             if (node != null && node.isObject()) {
-                System.out.println("Updating node: " + node);
                 ((ObjectNode) node).put("model_properties", newValue);
-                System.out.println("Updated node: " + node);
             }
         }
+    }
+
+    private File getFileFromResource(String fileName) throws URISyntaxException {
+        ClassLoader classLoader = getClass().getClassLoader();
+        URL resource = classLoader.getResource(fileName);
+        if (resource == null) {
+            throw new IllegalArgumentException("Resource not found: " + fileName);
+        }
+        return new File(resource.toURI());
     }
 }

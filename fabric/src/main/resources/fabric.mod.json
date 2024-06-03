@@ -16,6 +16,9 @@
 		],
 		"client": [
 			"net.londonundergroundtrains.MainFabricClient"
+		],
+		"modmenu": [
+			"net.londonundergroundtrains.ModMenuConfig"
 		]
 	},
 	"mixins": [
