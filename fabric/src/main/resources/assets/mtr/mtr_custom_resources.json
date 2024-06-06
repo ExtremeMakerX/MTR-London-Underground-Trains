@@ -1,0 +1,95 @@
+{
+  "custom_trains" : {
+    "lu_1992_refit" : {
+      "name" : "London Underground 1992 Stock (Refit)",
+      "base_train_type" : "base_16_2",
+      "color" : "960019",
+      "texture_id" : "mtr:custom_directory/1992_stock_refit_texture.png",
+      "bve_sound_base_id" : "london_underground_1992",
+      "has_gangway_connection" : false,
+      "render_door_overlay" : false,
+      "rider_offset" : 0,
+      "model" : "mtr:custom_directory/london_underground_1992_v2.bbmodel",
+      "model_properties" : "mtr:custom_directory/london_underground_1992.json",
+      "door_animation_type" : "STANDARD"
+    },
+    "lu_1992_refit_old" : {
+      "name" : "London Underground 1992 Stock (Refit - Old)",
+      "base_train_type" : "base_16_2",
+      "color" : "960019",
+      "texture_id" : "mtr:custom_directory/1992_stock_refit_old_texture.png",
+      "bve_sound_base_id" : "london_underground_1992",
+      "has_gangway_connection" : false,
+      "render_door_overlay" : false,
+      "rider_offset" : 0,
+      "model" : "mtr:custom_directory/london_underground_1992_v2.bbmodel",
+      "model_properties" : "mtr:custom_directory/london_underground_1992.json",
+      "door_animation_type" : "STANDARD"
+    },
+    "lu_1992_old" : {
+      "name" : "London Underground 1992 Stock (Old)",
+      "base_train_type" : "base_16_2",
+      "color" : "960019",
+      "texture_id" : "mtr:custom_directory/1992_stock_old_texture.png",
+      "bve_sound_base_id" : "london_underground_1992",
+      "has_gangway_connection" : false,
+      "render_door_overlay" : false,
+      "rider_offset" : 0,
+      "model" : "mtr:custom_directory/london_underground_1992_v2.bbmodel",
+      "model_properties" : "mtr:custom_directory/london_underground_1992.json",
+      "door_animation_type" : "STANDARD"
+    },
+    "lu_1992_wc1" : {
+      "name" : "London Underground 1992 Stock (W&C - TFL Livery)",
+      "base_train_type" : "base_16_2",
+      "color" : "960019",
+      "texture_id" : "mtr:custom_directory/1992_stock_waterloo_city_texture.png",
+      "bve_sound_base_id" : "london_underground_1992",
+      "has_gangway_connection" : false,
+      "render_door_overlay" : false,
+      "rider_offset" : 0,
+      "model" : "mtr:custom_directory/london_underground_1992_v2_waterloo.bbmodel",
+      "model_properties" : "mtr:custom_directory/london_underground_1992.json",
+      "door_animation_type" : "STANDARD"
+    },
+    "lu_1992_wc2" : {
+      "name" : "London Underground 1992 Stock (W&C - TFL Livery - Green Seats)",
+      "base_train_type" : "base_16_2",
+      "color" : "960019",
+      "texture_id" : "mtr:custom_directory/1992_stock_waterloo_city_green_seat_texture.png",
+      "bve_sound_base_id" : "london_underground_1992",
+      "has_gangway_connection" : false,
+      "render_door_overlay" : false,
+      "rider_offset" : 0,
+      "model" : "mtr:custom_directory/london_underground_1992_v2_waterloo.bbmodel",
+      "model_properties" : "mtr:custom_directory/london_underground_1992.json",
+      "door_animation_type" : "STANDARD"
+    },
+    "british_rail_class_482_wc2_no_logo" : {
+      "name" : "Class 482 (W&C - LU - British Rail Livery - No Logo)",
+      "base_train_type" : "base_16_2",
+      "color" : "000080",
+      "texture_id" : "mtr:custom_directory/br482_no_logo_texture.png",
+      "bve_sound_base_id" : "london_underground_1992",
+      "has_gangway_connection" : false,
+      "render_door_overlay" : false,
+      "rider_offset" : 0,
+      "model" : "mtr:custom_directory/london_underground_1992_v2_waterloo.bbmodel",
+      "model_properties" : "mtr:custom_directory/british_rail_class_482.json",
+      "door_animation_type" : "STANDARD"
+    },
+    "british_rail_class_482_wc2" : {
+      "name" : "Class 482 (W&C - British Rail Livery)",
+      "base_train_type" : "base_16_2",
+      "color" : "000080",
+      "texture_id" : "mtr:custom_directory/br482_texture.png",
+      "bve_sound_base_id" : "london_underground_1992",
+      "has_gangway_connection" : false,
+      "render_door_overlay" : false,
+      "rider_offset" : 0,
+      "model" : "mtr:custom_directory/london_underground_1992_v2_waterloo.bbmodel",
+      "model_properties" : "mtr:custom_directory/british_rail_class_482.json",
+      "door_animation_type" : "STANDARD"
+    }
+  }
+}
