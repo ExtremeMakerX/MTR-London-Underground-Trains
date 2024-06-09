@@ -5,19 +5,15 @@ import mtr.mappings.Text;
 import mtr.screen.WidgetBetterCheckbox;
 import net.londonundergroundtrains.JSONChanger;
 import net.londonundergroundtrains.client.WidgetSetter;
-import net.minecraft.client.gui.components.Button;
 import net.minecraft.client.gui.screens.Screen;
 import net.minecraft.network.chat.Component;
 import org.jetbrains.annotations.NotNull;
 
 import java.io.IOException;
 import java.net.URISyntaxException;
-import java.util.function.Supplier;
 
 public class ConfigScreen extends Screen {
     private WidgetBetterCheckbox trainsComplementaryReimaginedSupport;
-    private ButtonExtender buttonDone;
-    public static final Button.CreateNarration DEFAULT_NARRATION = Supplier::get;
 
     public ConfigScreen(Component component) {
         super(component);
@@ -40,16 +36,15 @@ public class ConfigScreen extends Screen {
             }
         }
         });
-        buttonDone = new ButtonExtender(0, 0, 0, 20, Text.translatable("gui.londonundergroundtrains.done"), button -> onClose(), DEFAULT_NARRATION);
+        //buttonDone = new ButtonExtender(0, 0, 0, 20, Text.translatable("gui.londonundergroundtrains.done"), button -> onClose(), DEFAULT_NARRATION);
     }
 
     @Override
     protected void init() {
         super.init();
         WidgetSetter.setAdjustableWidget(trainsComplementaryReimaginedSupport, width / 2, 40, 20);
-        WidgetSetter.setAdjustableWidget(buttonDone, width / 2 - 80, height - 80, 160);
         addRenderableWidget(trainsComplementaryReimaginedSupport);
-        addRenderableWidget(buttonDone);
+        //addRenderableWidget(buttonDone);
     }
 
     @Override
