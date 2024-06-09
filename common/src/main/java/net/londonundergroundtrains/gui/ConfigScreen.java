@@ -4,7 +4,6 @@ import com.mojang.blaze3d.vertex.PoseStack;
 import mtr.mappings.Text;
 import mtr.screen.WidgetBetterCheckbox;
 import net.londonundergroundtrains.JSONChanger;
-import net.londonundergroundtrains.client.WidgetSetter;
 import net.minecraft.client.gui.screens.Screen;
 import net.minecraft.network.chat.Component;
 import org.jetbrains.annotations.NotNull;
@@ -42,7 +41,6 @@ public class ConfigScreen extends Screen {
     @Override
     protected void init() {
         super.init();
-        WidgetSetter.setAdjustableWidget(trainsComplementaryReimaginedSupport, width / 2, 40, 20);
         addRenderableWidget(trainsComplementaryReimaginedSupport);
         //addRenderableWidget(buttonDone);
     }
