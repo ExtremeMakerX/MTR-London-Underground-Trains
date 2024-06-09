@@ -2,6 +2,15 @@
 	"parts": [
 		{
 			"names": [
+				"base_floor"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "type": "FLOOR"
+		},
+		{
+			"names": [
 				"handrail_window"
 			],
 			"positionDefinitions": [
@@ -331,7 +340,7 @@
 				"door",
 				"doorFlipped"
 			],
-			"type": "FLOOR"
+			"renderStage": "INTERIOR"
 		},
 		{
 			"names": [
@@ -443,8 +452,8 @@
 		}
 	],
 	"modelYOffset": 1,
-	"barrierInnerSideResource": "mtr:barrier/london_underground_1992_barrier.png",
-	"barrierOuterSideResource": "mtr:barrier/london_underground_1992_barrier.png",
+	"barrierInnerSideResource": "mtr:1992_barrier/london_underground_1992_barrier.png",
+	"barrierOuterSideResource": "mtr:1992_barrier/london_underground_1992_barrier.png",
 	"barrierWidth": 2.5,
 	"barrierHeight": 1,
 	"barrierYOffset": 1,

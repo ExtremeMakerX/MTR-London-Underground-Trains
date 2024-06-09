@@ -1,0 +1,170 @@
+{
+	"positionDefinitions": [
+		{
+			"name": "0_position_transparent",
+			"positions": [
+				{
+					"z": 0
+				}
+			]
+		},
+		{
+			"name": "0_position_flipped_transparent",
+			"positionsFlipped": [
+				{
+					"z": 0
+				}
+			]
+		},
+		{
+			"name": "headEnd1_transparent",
+			"positions": [
+				{
+					"z": -78
+				}
+			]
+		},
+		{
+			"name": "headEnd1Flipped_transparent",
+			"positionsFlipped": [
+				{
+					"z": -78
+				}
+			]
+		},
+		{
+			"name": "headEnd2_transparent",
+			"positionsFlipped": [
+				{
+					"z": 78
+				}
+			]
+		},
+		{
+			"name": "headEnd2Flipped_transparent",
+			"positions": [
+				{
+					"z": 78
+				}
+			]
+		},
+		{
+			"name": "window1_transparent",
+			"positions": [
+				{
+					"z": -83
+				}
+			]
+		},
+		{
+			"name": "window1Flipped_transparent",
+			"positionsFlipped": [
+				{
+					"z": -83
+				}
+			]
+		},
+		{
+			"name": "window2_transparent",
+			"positionsFlipped": [
+				{
+					"z": 83
+				}
+			]
+		},
+		{
+			"name": "window2Flipped_transparent",
+			"positions": [
+				{
+					"z": 83
+				}
+			]
+		},
+		{
+			"name": "door_transparent",
+			"positions": [
+				{
+					"z": -40
+				},
+				{
+					"z": 40
+				}
+			]
+		},
+		{
+			"name": "doorFlipped_transparent",
+			"positionsFlipped": [
+				{
+					"z": -40
+				},
+				{
+					"z": 40
+				}
+			]
+		},
+		{
+			"name": "doorEnd1_transparent",
+			"positions": [
+				{
+					"z": -126
+				}
+			]
+		},
+		{
+			"name": "doorEnd1Flipped_transparent",
+			"positionsFlipped": [
+				{
+					"z": -126
+				}
+			]
+		},
+		{
+			"name": "doorEnd2_transparent",
+			"positionsFlipped": [
+				{
+					"z": 126
+				}
+			]
+		},
+		{
+			"name": "doorEnd2Flipped_transparent",
+			"positions": [
+				{
+					"z": 126
+				}
+			]
+		},
+		{
+			"name": "end1_transparent",
+			"positionsFlipped": [
+				{
+					"z": 78
+				}
+			]
+		},
+		{
+			"name": "end2_transparent",
+			"positions": [
+				{
+					"z": -78
+				}
+			]
+		},
+		{
+			"name": "end1Flipped_transparent",
+			"positionsFlipped": [
+				{
+					"z": -78
+				}
+			]
+		},
+		{
+			"name": "end2Flipped_transparent",
+			"positions": [
+				{
+					"z": 78
+				}
+			]
+		}
+	]
+}

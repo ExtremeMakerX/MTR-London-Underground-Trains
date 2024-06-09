@@ -38,35 +38,35 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_head_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_1.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -113,35 +113,35 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_head_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_1.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -188,35 +188,35 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_2.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_2.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -263,35 +263,35 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -339,35 +339,35 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_head_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_1.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -414,35 +414,35 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_head_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_1.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -489,35 +489,35 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_2.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_2.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -564,35 +564,35 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -640,35 +640,35 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_head_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_1.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -715,35 +715,35 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_head_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_1.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -790,35 +790,35 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_2.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_2.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -865,35 +865,35 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -941,35 +941,35 @@
 					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_head_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_1.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -1016,35 +1016,35 @@
 					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_head_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_1.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -1091,35 +1091,35 @@
 					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_2.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_2.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -1166,35 +1166,35 @@
 					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -1242,35 +1242,35 @@
 					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_head_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_1.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -1317,35 +1317,35 @@
 					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_head_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_1.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -1392,35 +1392,35 @@
 					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_2.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_2.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -1467,35 +1467,35 @@
 					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -1543,35 +1543,35 @@
 					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_head_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_1.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -1618,35 +1618,35 @@
 					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_head_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_1.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -1693,35 +1693,35 @@
 					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_2.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_2.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -1768,35 +1768,35 @@
 					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -1844,35 +1844,35 @@
 					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_head_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_1.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -1919,35 +1919,35 @@
 					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_head_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_1.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_1.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -1994,35 +1994,35 @@
 					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
+					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
 			"bogie1Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_2.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"bogie2Models": [
 				{
-					"modelResource": "mtr:bogie/bogie_2.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
+					"modelResource": "mtr:1992_bogie/bogie_2.bbmodel",
+					"textureResource": "mtr:1992_bogie/bogie_texture.png",
+					"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+					"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
 				}
 			],
 			"hasGangway1": false,
@@ -2031,80 +2031,436 @@
 			"hasBarrier2": true,
 			"bveSoundBaseResource": "london_underground_1992"
 		},
-		{
-			"id": "british_rail_482_no_logo_power_trailer",
-			"name": "BR 482 W&C - British Rail Livery No Logo (Power Trailer)",
-			"color": "000080",
-			"transportMode": "TRAIN",
-			"width": 2,
-			"length": 17.35,
-			"bogie1Position": -5.4,
-			"bogie2Position": 5.4,
-			"couplingPadding1": 0,
-			"couplingPadding2": 0,
-			"wikipediaArticle": "British_Rail_Class_482",
-			"tags": [
-				"family:british_rail_class_482",
-				"iso_3166:GB",
-				"doors:4",
-				"type:car"
-			],
-			"models": [
-				{
-					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
-					"textureResource": "mtr:british_rail_class_482/br482_no_logo_texture.png",
-					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_trailer.json",
-					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
-				},
-				{
-					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
-					"textureResource": "mtr:british_rail_class_482/br482_no_logo_texture.png",
-					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_end_1.json",
-					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
-				},
-				{
-					"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
-					"textureResource": "mtr:british_rail_class_482/br482_no_logo_texture.png",
-					"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_end_2.json",
-					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
-				},
-				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_common.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
-				},
-				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_1.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
-				},
-				{
-					"modelResource": "mtr:transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:transparency/transparency_end_2.json",
-					"positionDefinitionsResource": "mtr:transparency/transparency_definition.json"
-				}
-			],
-			"bogie1Models": [
-				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
-				}
-			],
-			"bogie2Models": [
-				{
-					"modelResource": "mtr:bogie/bogie_3.bbmodel",
-					"textureResource": "mtr:bogie/bogie_texture.png",
-					"modelPropertiesResource": "mtr:bogie/bogie_1.json",
-					"positionDefinitionsResource": "mtr:bogie/origin.json"
-				}
-			],
-			"hasGangway1": false,
-			"hasGangway2": false,
-			"hasBarrier1": true,
-			"hasBarrier2": true,
-			"bveSoundBaseResource": "london_underground_1992"
-		}
-    ]
+	{
+		"id": "british_rail_482_no_logo_power_trailer",
+		"name": "BR 482 W&C - British Rail Livery No Logo (Power Trailer)",
+		"color": "000080",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 17.35,
+		"bogie1Position": -5.4,
+		"bogie2Position": 5.4,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "British_Rail_Class_482",
+		"tags": [
+			"family:british_rail_class_482",
+			"iso_3166:GB",
+			"doors:4",
+			"type:car"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+				"textureResource": "mtr:british_rail_class_482/br482_no_logo_texture.png",
+				"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_trailer.json",
+				"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+			},
+			{
+				"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+				"textureResource": "mtr:british_rail_class_482/br482_no_logo_texture.png",
+				"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_end_1.json",
+				"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+			},
+			{
+				"modelResource": "mtr:british_rail_class_482/london_underground_1992_v2_waterloo.bbmodel",
+				"textureResource": "mtr:british_rail_class_482/br482_no_logo_texture.png",
+				"modelPropertiesResource": "mtr:british_rail_class_482/british_rail_class_482_end_2.json",
+				"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
+			},
+			{
+				"modelResource": "mtr:1992_transparency/transparency.obj",
+				"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
+				"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
+			},
+			{
+				"modelResource": "mtr:1992_transparency/transparency.obj",
+				"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+				"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
+			},
+			{
+				"modelResource": "mtr:1992_transparency/transparency.obj",
+				"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+				"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+				"textureResource": "mtr:1992_bogie/bogie_texture.png",
+				"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+				"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:1992_bogie/bogie_3.bbmodel",
+				"textureResource": "mtr:1992_bogie/bogie_texture.png",
+				"modelPropertiesResource": "mtr:1992_bogie/bogie_1.json",
+				"positionDefinitionsResource": "mtr:1992_bogie/origin.json"
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1992"
+	},
+
+	{
+		"id": "london_underground_1995_trailer_improved",
+		"name": "London Underground 1995 Stock Trailer (Improved)",
+		"color": "333333",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 19.35,
+		"bogie1Position": -6.25,
+		"bogie2Position": 6.25,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1995_Stock",
+		"tags":[
+			"family:london_underground_1995",
+			"iso_3166:GB",
+			"doors:4"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1995_6_model/london_underground_1995.bbmodel",
+				"textureResource": "mtr:1995_stock/london_underground_1995.png",
+				"modelPropertiesResource": "mtr:1995_6_model/london_underground_1995_common.json",
+				"positionDefinitionsResource": "mtr:1995_6_model/london_underground_1995.json"
+			},
+			{
+				"modelResource": "mtr:1995_6_model/london_underground_1995.bbmodel",
+				"textureResource": "mtr:1995_stock/london_underground_1995.png",
+				"modelPropertiesResource": "mtr:1995_6_model/london_underground_1995_end_1.json",
+				"positionDefinitionsResource": "mtr:1995_6_model/london_underground_1995.json"
+			},
+			{
+				"modelResource": "mtr:1995_6_model/london_underground_1995.bbmodel",
+				"textureResource": "mtr:1995_stock/london_underground_1995.png",
+				"modelPropertiesResource": "mtr:1995_6_model/london_underground_1995_end_2.json",
+				"positionDefinitionsResource": "mtr:1995_6_model/london_underground_1995.json"
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+				"textureResource": "mtr:textures/vehicle/bogie_1.png",
+				"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+				"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+				"textureResource": "mtr:textures/vehicle/bogie_1.png",
+				"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+				"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1995"
+	},
+	{
+		"id": "london_underground_1995_cab_1_improved",
+		"name": "London Underground 1995 Stock (Forwards - Improved)",
+		"color": "333333",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 19.85,
+		"bogie1Position": -6.25,
+		"bogie2Position": 6.25,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1995_Stock",
+		"tags":[
+			"family:london_underground_1995",
+			"iso_3166:GB",
+			"doors:4"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1995_6_model/london_underground_1995.bbmodel",
+				"textureResource": "mtr:1995_stock/london_underground_1995.png",
+				"modelPropertiesResource": "mtr:1995_6_model/london_underground_1995_common.json",
+				"positionDefinitionsResource": "mtr:1995_6_model/london_underground_1995_forwards.json"
+			},
+			{
+				"modelResource": "mtr:1995_6_model/london_underground_1995.bbmodel",
+				"textureResource": "mtr:1995_stock/london_underground_1995.png",
+				"modelPropertiesResource": "mtr:1995_6_model/london_underground_1995_head_1.json",
+				"positionDefinitionsResource": "mtr:1995_6_model/london_underground_1995_forwards.json"
+			},
+			{
+				"modelResource": "mtr:1995_6_model/london_underground_1995.bbmodel",
+				"textureResource": "mtr:1995_stock/london_underground_1995.png",
+				"modelPropertiesResource": "mtr:1995_6_model/london_underground_1995_end_2.json",
+				"positionDefinitionsResource": "mtr:1995_6_model/london_underground_1995_forwards.json"
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+				"textureResource": "mtr:textures/vehicle/bogie_1.png",
+				"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+				"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+				"textureResource": "mtr:textures/vehicle/bogie_1.png",
+				"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+				"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": false,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1995"
+	},
+	{
+		"id": "london_underground_1995_cab_2_improved",
+		"name": "London Underground 1995 Stock (Backwards - Improved)",
+		"color": "333333",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 19.85,
+		"bogie1Position": -6.25,
+		"bogie2Position": 6.25,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1996_Stock",
+		"tags":[
+			"family:london_underground_1996",
+			"iso_3166:GB",
+			"doors:4"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1995_6_model/london_underground_1995.bbmodel",
+				"textureResource": "mtr:1995_stock/london_underground_1995.png",
+				"modelPropertiesResource": "mtr:1995_6_model/london_underground_1995_common.json",
+				"positionDefinitionsResource": "mtr:1995_6_model/london_underground_1995_backwards.json"
+			},
+			{
+				"modelResource": "mtr:1995_6_model/london_underground_1995.bbmodel",
+				"textureResource": "mtr:1995_stock/london_underground_1995.png",
+				"modelPropertiesResource": "mtr:1995_6_model/london_underground_1995_end_1.json",
+				"positionDefinitionsResource": "mtr:1995_6_model/london_underground_1995_backwards.json"
+			},
+			{
+				"modelResource": "mtr:1995_6_model/london_underground_1995.bbmodel",
+				"textureResource": "mtr:1995_stock/london_underground_1995.png",
+				"modelPropertiesResource": "mtr:1995_6_model/london_underground_1995_head_2.json",
+				"positionDefinitionsResource": "mtr:1995_6_model/london_underground_1995_backwards.json"
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+				"textureResource": "mtr:textures/vehicle/bogie_1.png",
+				"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+				"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+				"textureResource": "mtr:textures/vehicle/bogie_1.png",
+				"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+				"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": false,
+		"bveSoundBaseResource": "london_underground_1995"
+	},
+
+	{
+		"id": "london_underground_1996_trailer_improved",
+		"name": "London Underground 1996 Stock Trailer (Improved)",
+		"color": "333333",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 19.35,
+		"bogie1Position": -6.25,
+		"bogie2Position": 6.25,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1996_Stock",
+		"tags":[
+			"family:london_underground_1995",
+			"iso_3166:GB",
+			"doors:4"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1995_6_model/london_underground_1995.bbmodel",
+				"textureResource": "mtr:1996_stock/london_underground_1996.png",
+				"modelPropertiesResource": "mtr:1995_6_model/london_underground_1995_common.json",
+				"positionDefinitionsResource": "mtr:1995_6_model/london_underground_1995.json"
+			},
+			{
+				"modelResource": "mtr:1995_6_model/london_underground_1995.bbmodel",
+				"textureResource": "mtr:1996_stock/london_underground_1996.png",
+				"modelPropertiesResource": "mtr:1995_6_model/london_underground_1995_end_1.json",
+				"positionDefinitionsResource": "mtr:1995_6_model/london_underground_1995.json"
+			},
+			{
+				"modelResource": "mtr:1995_6_model/london_underground_1995.bbmodel",
+				"textureResource": "mtr:1996_stock/london_underground_1996.png",
+				"modelPropertiesResource": "mtr:1995_6_model/london_underground_1995_end_2.json",
+				"positionDefinitionsResource": "mtr:1995_6_model/london_underground_1995.json"
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+				"textureResource": "mtr:textures/vehicle/bogie_1.png",
+				"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+				"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+				"textureResource": "mtr:textures/vehicle/bogie_1.png",
+				"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+				"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1995"
+	},
+	{
+		"id": "london_underground_1996_cab_1_improved",
+		"name": "London Underground 1996 Stock (Forwards - Improved)",
+		"color": "333333",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 19.85,
+		"bogie1Position": -6.25,
+		"bogie2Position": 6.25,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1996_Stock",
+		"tags":[
+			"family:london_underground_1996",
+			"iso_3166:GB",
+			"doors:4"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1995_6_model/london_underground_1995.bbmodel",
+				"textureResource": "mtr:1996_stock/london_underground_1996.png",
+				"modelPropertiesResource": "mtr:1995_6_model/london_underground_1995_common.json",
+				"positionDefinitionsResource": "mtr:1995_6_model/london_underground_1995_forwards.json"
+			},
+			{
+				"modelResource": "mtr:1995_6_model/london_underground_1995.bbmodel",
+				"textureResource": "mtr:1996_stock/london_underground_1996.png",
+				"modelPropertiesResource": "mtr:1995_6_model/london_underground_1995_head_1.json",
+				"positionDefinitionsResource": "mtr:1995_6_model/london_underground_1995_forwards.json"
+			},
+			{
+				"modelResource": "mtr:1995_6_model/london_underground_1995.bbmodel",
+				"textureResource": "mtr:1996_stock/london_underground_1996.png",
+				"modelPropertiesResource": "mtr:1995_6_model/london_underground_1995_end_2.json",
+				"positionDefinitionsResource": "mtr:1995_6_model/london_underground_1995_forwards.json"
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+				"textureResource": "mtr:textures/vehicle/bogie_1.png",
+				"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+				"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+				"textureResource": "mtr:textures/vehicle/bogie_1.png",
+				"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+				"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": false,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1996"
+	},
+	{
+		"id": "london_underground_1996_cab_2_improved",
+		"name": "London Underground 1996 Stock (Backwards - Improved)",
+		"color": "333333",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 19.85,
+		"bogie1Position": -6.25,
+		"bogie2Position": 6.25,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1996_Stock",
+		"tags":[
+			"family:london_underground_1996",
+			"iso_3166:GB",
+			"doors:4"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1995_6_model/london_underground_1995.bbmodel",
+				"textureResource": "mtr:1996_stock/london_underground_1996.png",
+				"modelPropertiesResource": "mtr:1995_6_model/london_underground_1995_common.json",
+				"positionDefinitionsResource": "mtr:1995_6_model/london_underground_1995_backwards.json"
+			},
+			{
+				"modelResource": "mtr:1995_6_model/london_underground_1995.bbmodel",
+				"textureResource": "mtr:1996_stock/london_underground_1996.png",
+				"modelPropertiesResource": "mtr:1995_6_model/london_underground_1995_end_1.json",
+				"positionDefinitionsResource": "mtr:1995_6_model/london_underground_1995_backwards.json"
+			},
+			{
+				"modelResource": "mtr:1995_6_model/london_underground_1995.bbmodel",
+				"textureResource": "mtr:1996_stock/london_underground_1996.png",
+				"modelPropertiesResource": "mtr:1995_6_model/london_underground_1995_head_2.json",
+				"positionDefinitionsResource": "mtr:1995_6_model/london_underground_1995_backwards.json"
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+				"textureResource": "mtr:textures/vehicle/bogie_1.png",
+				"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+				"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:models/vehicle/bogie_1.bbmodel",
+				"textureResource": "mtr:textures/vehicle/bogie_1.png",
+				"modelPropertiesResource": "mtr:properties/vehicle/bogie_1.json",
+				"positionDefinitionsResource": "mtr:properties/definition/origin.json"
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": false,
+		"bveSoundBaseResource": "london_underground_1996"
+	}
+]
 }

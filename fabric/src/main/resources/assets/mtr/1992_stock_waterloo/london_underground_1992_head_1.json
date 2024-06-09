@@ -43,7 +43,7 @@
 			"positionDefinitions": [
 				"seatHead1"
 			],
-			"type": "FLOOR"
+			"renderStage": "INTERIOR"
 		},
 		{
 			"names": [

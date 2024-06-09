@@ -92,7 +92,7 @@
 			"positionDefinitions": [
 				"end2Flipped"
 			],
-			"type": "FLOOR"
+			"renderStage": "INTERIOR"
 		},
 		{
             "names": [
