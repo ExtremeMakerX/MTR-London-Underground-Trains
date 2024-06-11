@@ -24,7 +24,7 @@ public class ConfigScreen extends ScreenMapper {
     @Override
     protected void init() {
         super.init();
-        addRenderableWidget(trainsComplementaryReimaginedSupport);
+        //addRenderableWidget(trainsComplementaryReimaginedSupport);
         //addRenderableWidget(buttonDone);
     }
 
