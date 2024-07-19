@@ -81,6 +81,38 @@
 			]
 		},
 		{
+			"name": "end1_transparent",
+			"positionsFlipped": [
+				{
+					"z": 78
+				}
+			]
+		},
+		{
+			"name": "end2_transparent",
+			"positions": [
+				{
+					"z": -78
+				}
+			]
+		},
+		{
+			"name": "end1Flipped_transparent",
+			"positionsFlipped": [
+				{
+					"z": -78
+				}
+			]
+		},
+		{
+			"name": "end2Flipped_transparent",
+			"positions": [
+				{
+					"z": 78
+				}
+			]
+		},
+		{
 			"name": "door_transparent",
 			"positions": [
 				{
@@ -131,38 +163,6 @@
 			"positions": [
 				{
 					"z": 126
-				}
-			]
-		},
-		{
-			"name": "end1_transparent",
-			"positionsFlipped": [
-				{
-					"z": 78
-				}
-			]
-		},
-		{
-			"name": "end2_transparent",
-			"positions": [
-				{
-					"z": -78
-				}
-			]
-		},
-		{
-			"name": "end1Flipped_transparent",
-			"positionsFlipped": [
-				{
-					"z": -78
-				}
-			]
-		},
-		{
-			"name": "end2Flipped_transparent",
-			"positions": [
-				{
-					"z": 78
 				}
 			]
 		}

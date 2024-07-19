@@ -38,18 +38,21 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
@@ -113,17 +116,20 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
@@ -188,17 +194,20 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
@@ -263,17 +272,20 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
@@ -339,18 +351,21 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
@@ -414,17 +429,20 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
@@ -489,17 +507,20 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
@@ -564,17 +585,20 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
@@ -640,17 +664,20 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
@@ -715,17 +742,20 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
@@ -790,17 +820,20 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
@@ -865,17 +898,20 @@
 					"positionDefinitionsResource": "mtr:1992_stock_standard/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
@@ -941,18 +977,21 @@
 					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
@@ -1016,17 +1055,20 @@
 					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
@@ -1091,17 +1133,20 @@
 					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
@@ -1166,17 +1211,20 @@
 					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
@@ -1242,18 +1290,21 @@
 					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
@@ -1317,17 +1368,20 @@
 					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
@@ -1392,17 +1446,20 @@
 					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
@@ -1467,17 +1524,20 @@
 					"positionDefinitionsResource": "mtr:1992_stock_waterloo/london_underground_1992_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
@@ -1543,18 +1603,21 @@
 					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
@@ -1618,17 +1681,20 @@
 					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
@@ -1693,17 +1759,20 @@
 					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
@@ -1768,17 +1837,20 @@
 					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
@@ -1844,18 +1916,21 @@
 					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
@@ -1919,17 +1994,20 @@
 					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
-					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_head_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
@@ -1994,17 +2072,20 @@
 					"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				},
 				{
-					"modelResource": "mtr:1992_transparency/transparency.obj",
+					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
@@ -2069,17 +2150,20 @@
 				"positionDefinitionsResource": "mtr:british_rail_class_482/british_rail_class_482_definition.json"
 			},
 			{
-				"modelResource": "mtr:1992_transparency/transparency.obj",
+				"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 				"modelPropertiesResource": "mtr:1992_transparency/transparency_common.json",
 				"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 			},
 			{
-				"modelResource": "mtr:1992_transparency/transparency.obj",
+				"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 				"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
 				"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 			},
 			{
-				"modelResource": "mtr:1992_transparency/transparency.obj",
+				"modelResource": "mtr:1992_transparency/transparency.bbmodel",
+					"textureResource": "mtr:1992_transparency/transparency.png",
 				"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
 				"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 			}

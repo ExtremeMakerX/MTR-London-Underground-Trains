@@ -2,10 +2,10 @@
 	"parts": [
 		{
 			"names": [
-				"door_right_transparent_sides"
+				"door_right_transparent"
 			],
 			"positionDefinitions": [
-				"doorEnd1_transparent"
+				"doorEnd2Flipped_transparent"
 			],
 			"renderStage": "ALWAYS_ON_LIGHT",
 			"doorZMultiplier": -15,
@@ -13,21 +13,10 @@
 		},
 		{
 			"names": [
-				"door_right_transparent_sides"
+				"door_left_transparent"
 			],
 			"positionDefinitions": [
-				"doorEnd1_transparent"
-			],
-			"renderStage": "ALWAYS_ON_LIGHT",
-			"doorZMultiplier": -15,
-			"doorAnimationType": "R179"
-		},
-		{
-			"names": [
-				"door_right_transparent_sides"
-			],
-			"positionDefinitions": [
-				"doorEnd1_transparent"
+				"doorEnd2_transparent"
 			],
 			"renderStage": "ALWAYS_ON_LIGHT",
 			"doorZMultiplier": -15,
@@ -38,7 +27,7 @@
 				"end_transparent"
 			],
 			"positionDefinitions": [
-				"end2_transparent"
+				"end2Flipped_transparent"
 			],
 			"renderStage": "ALWAYS_ON_LIGHT"
 		},
@@ -47,7 +36,7 @@
 				"end_transparent"
 			],
 			"positionDefinitions": [
-				"end2_transparent"
+				"end2Flipped_transparent"
 			],
 			"renderStage": "ALWAYS_ON_LIGHT"
 		}

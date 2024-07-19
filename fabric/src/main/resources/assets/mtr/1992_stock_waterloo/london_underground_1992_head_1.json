@@ -38,15 +38,6 @@
 		},
 		{
 			"names": [
-				"window_floor"
-			],
-			"positionDefinitions": [
-				"seatHead1"
-			],
-			"renderStage": "INTERIOR"
-		},
-		{
-			"names": [
 				"head_exterior"
 			],
 			"positionDefinitions": [
