@@ -19,7 +19,7 @@
 				"doorEnd2_transparent"
 			],
 			"renderStage": "ALWAYS_ON_LIGHT",
-			"doorZMultiplier": -15,
+			"doorZMultiplier": 15,
 			"doorAnimationType": "R179"
 		},
 		{

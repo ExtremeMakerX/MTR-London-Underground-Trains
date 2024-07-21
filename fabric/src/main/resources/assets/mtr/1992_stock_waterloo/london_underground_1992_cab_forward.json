@@ -68,7 +68,7 @@
 			],
 			"renderStage": "INTERIOR",
 			"doorZMultiplier": -15,
-			"doorAnimationType": "NORMAL"
+			"doorAnimationType": "R179"
 		},
 		{
 			"names": [
@@ -80,7 +80,7 @@
 			],
 			"renderStage": "EXTERIOR",
 			"doorZMultiplier": -15,
-			"doorAnimationType": "NORMAL"
+			"doorAnimationType": "R179"
 		},
 		{
 			"names": [
@@ -92,7 +92,7 @@
 			],
 			"renderStage": "INTERIOR",
 			"doorZMultiplier": 15,
-			"doorAnimationType": "NORMAL"
+			"doorAnimationType": "R179"
 		},
 		{
 			"names": [
@@ -104,7 +104,7 @@
 			],
 			"renderStage": "INTERIOR",
 			"doorZMultiplier": -15,
-			"doorAnimationType": "NORMAL"
+			"doorAnimationType": "R179"
 		},
 		{
 			"names": [
@@ -349,7 +349,7 @@
 			],
 			"renderStage": "INTERIOR",
 			"doorZMultiplier": 15,
-			"doorAnimationType": "NORMAL"
+			"doorAnimationType": "R179"
 		},
 		{
 			"names": [
@@ -360,7 +360,7 @@
 			],
 			"renderStage": "INTERIOR",
 			"doorZMultiplier": -15,
-			"doorAnimationType": "NORMAL"
+			"doorAnimationType": "R179"
 		},
 		{
 			"names": [
@@ -370,8 +370,8 @@
 				"doorFlipped"
 			],
 			"renderStage": "INTERIOR",
-			"doorZMultiplier": -15,
-			"doorAnimationType": "NORMAL"
+			"doorZMultiplier": 15,
+			"doorAnimationType": "R179"
 		},
 		{
 			"names": [
@@ -381,8 +381,8 @@
 				"doorFlipped"
 			],
 			"renderStage": "INTERIOR",
-			"doorZMultiplier": 15,
-			"doorAnimationType": "NORMAL"
+			"doorZMultiplier": -15,
+			"doorAnimationType": "R179"
 		},
 		{
 			"names": [
@@ -393,7 +393,7 @@
 			],
 			"renderStage": "EXTERIOR",
 			"doorZMultiplier": 15,
-			"doorAnimationType": "NORMAL"
+			"doorAnimationType": "R179"
 		},
 		{
 			"names": [
@@ -404,7 +404,7 @@
 			],
 			"renderStage": "EXTERIOR",
 			"doorZMultiplier": -15,
-			"doorAnimationType": "NORMAL"
+			"doorAnimationType": "R179"
 		},
 		{
 			"names": [
@@ -414,8 +414,8 @@
 				"doorFlipped"
 			],
 			"renderStage": "EXTERIOR",
-			"doorZMultiplier": -15,
-			"doorAnimationType": "NORMAL"
+			"doorZMultiplier": 15,
+			"doorAnimationType": "R179"
 		},
 		{
 			"names": [
@@ -425,8 +425,8 @@
 				"doorFlipped"
 			],
 			"renderStage": "EXTERIOR",
-			"doorZMultiplier": 15,
-			"doorAnimationType": "NORMAL"
+			"doorZMultiplier": -15,
+			"doorAnimationType": "R179"
 		},
 		{
 			"names": [

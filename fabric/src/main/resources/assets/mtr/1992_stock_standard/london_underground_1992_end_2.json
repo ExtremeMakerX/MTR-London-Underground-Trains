@@ -17,7 +17,7 @@
 				"doorEnd2"
 			],
 			"renderStage": "INTERIOR",
-			"doorZMultiplier": -15,
+			"doorZMultiplier": 15,
 			"doorAnimationType": "R179"
 		},
 		{
@@ -129,7 +129,7 @@
 				"doorEnd2"
 			],
 			"renderStage": "INTERIOR",
-			"doorZMultiplier": -15,
+			"doorZMultiplier": 15,
 			"doorAnimationType": "R179"
 		},
 		{
@@ -151,7 +151,7 @@
 				"doorEnd2"
 			],
 			"renderStage": "EXTERIOR",
-			"doorZMultiplier": -15,
+			"doorZMultiplier": 15,
 			"doorAnimationType": "R179"
 		},
 		{
