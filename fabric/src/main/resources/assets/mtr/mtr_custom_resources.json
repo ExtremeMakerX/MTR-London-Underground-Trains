@@ -678,7 +678,7 @@
 				{
 					"modelResource": "mtr:1992_transparency/transparency.bbmodel",
 					"textureResource": "mtr:1992_transparency/transparency.png",
-					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_1.json",
+					"modelPropertiesResource": "mtr:1992_transparency/transparency_end_2.json",
 					"positionDefinitionsResource": "mtr:1992_transparency/transparency_definition.json"
 				}
 			],
