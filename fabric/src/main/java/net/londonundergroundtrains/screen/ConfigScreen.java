@@ -1,6 +1,5 @@
 package net.londonundergroundtrains.screen;
 
-import org.jetbrains.annotations.NotNull;
 import org.mtr.mapping.holder.ClickableWidget;
 import org.mtr.mapping.mapper.*;
 import org.mtr.mod.client.IDrawing;
@@ -29,7 +28,7 @@ public class ConfigScreen extends ScreenExtension implements IGui {
     }
 
     @Override
-    public void render(@NotNull GraphicsHolder graphicsHolder, int mouseX, int mouseY, float delta) {
+    public void render(GraphicsHolder graphicsHolder, int mouseX, int mouseY, float delta) {
         renderBackground(graphicsHolder);
         graphicsHolder.drawCenteredText("LU Trains Options", width / 2, TEXT_PADDING, ARGB_WHITE);
         graphicsHolder.drawCenteredText("Options Coming Soon!", width / 2, SQUARE_SIZE * 2, ARGB_WHITE);
