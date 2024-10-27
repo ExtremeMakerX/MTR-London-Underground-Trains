@@ -13,7 +13,6 @@ public final class Init {
 
 	public static void init() {
 		DummyClass.enableLogging();
-
 		REGISTRY.init();
 	}
 }

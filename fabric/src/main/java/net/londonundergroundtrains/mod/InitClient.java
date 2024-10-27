@@ -7,7 +7,6 @@ public final class InitClient {
 	public static final RegistryClient REGISTRY_CLIENT = new RegistryClient(Init.REGISTRY);
 
 	public static void init() {
-
 		REGISTRY_CLIENT.init();
 	}
 }
