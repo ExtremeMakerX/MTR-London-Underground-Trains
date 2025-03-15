@@ -27,5 +27,6 @@ side = "BOTH"
 [[dependencies.londonundergroundtrains]]
 modId = "mtr"
 mandatory = true
+versionRange = ""
 ordering = "AFTER"
 side = "BOTH"
