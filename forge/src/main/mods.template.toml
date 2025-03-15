@@ -23,3 +23,9 @@ mandatory = true
 versionRange = "[@minecraft@]"
 ordering = "NONE"
 side = "BOTH"
+
+[[dependencies.londonundergroundtrains]]
+modId = "mtr"
+mandatory = true
+ordering = "AFTER"
+side = "BOTH"
