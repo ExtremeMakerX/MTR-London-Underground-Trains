@@ -18,15 +18,7 @@ ordering = "NONE"
 side = "BOTH"
 
 [[dependencies.londonundergroundtrains]]
-modId = "minecraft"
-mandatory = true
-versionRange = "[@minecraft@]"
-ordering = "NONE"
-side = "BOTH"
-
-[[dependencies.londonundergroundtrains]]
 modId = "mtr"
 mandatory = true
-versionRange = "[4.0.0-beta.1,4.1)"
 ordering = "AFTER"
 side = "BOTH"
