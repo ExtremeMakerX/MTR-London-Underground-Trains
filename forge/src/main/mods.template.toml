@@ -23,10 +23,3 @@ mandatory = true
 versionRange = "[@minecraft@]"
 ordering = "NONE"
 side = "BOTH"
-
-[[dependencies.londonundergroundtrains]]
-modId = "mtr"
-mandatory = true
-versionRange = "[4.0.0]"
-ordering = "AFTER"
-side = "BOTH"
