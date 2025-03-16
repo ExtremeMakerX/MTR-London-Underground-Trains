@@ -16,9 +16,3 @@ mandatory = true
 versionRange = "[36,)"
 ordering = "NONE"
 side = "BOTH"
-
-[[dependencies.londonundergroundtrains]]
-modId = "mtr"
-mandatory = true
-ordering = "AFTER"
-side = "BOTH"

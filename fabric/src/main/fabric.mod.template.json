@@ -35,7 +35,6 @@
 	"mixins": [
 	],
 	"depends": {
-		"fabric": "*",
-		"minecraft": "@minecraft@"
+		"fabric": "*"
 	}
 }
