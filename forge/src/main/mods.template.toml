@@ -16,3 +16,17 @@ mandatory = true
 versionRange = "[36,)"
 ordering = "NONE"
 side = "BOTH"
+
+[[dependencies.londonundergroundtrains]]
+modId = "minecraft"
+mandatory = true
+versionRange = "[@minecraft@]"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.londonundergroundtrains]]
+modId = "mtr"
+mandatory = true
+versionRange = "*"
+ordering = "AFTER"
+side = "BOTH"

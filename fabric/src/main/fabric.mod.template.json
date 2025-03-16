@@ -35,6 +35,8 @@
 	"mixins": [
 	],
 	"depends": {
-		"fabric": "*"
+		"fabric": "*",
+		"minecraft": "@minecraft@",
+		"mtr": "*"
 	}
 }
