@@ -21,7 +21,7 @@ dependencies {
 	} else {
 		modApi "com.terraformersmc:modmenu:9.0.0"
 	}
-	modImplementation "org.mtr:MTR-fabric:${mtrVersion}+${minecraftVersion}"
+	modImplementation "org.mtr:MTR-fabric:${mtrVersion}+${minecraftVersion}-server"
 }
 
 repositories {
