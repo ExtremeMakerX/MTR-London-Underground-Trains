@@ -67,7 +67,7 @@
 				"doorFlipped"
 			],
 			"renderStage": "INTERIOR",
-			"doorZMultiplier": -15,
+			"doorZMultiplier": -15.48,
 			"doorAnimationType": "R179"
 		},
 		{
@@ -79,7 +79,7 @@
 				"doorFlipped"
 			],
 			"renderStage": "EXTERIOR",
-			"doorZMultiplier": -15,
+			"doorZMultiplier": -15.48,
 			"doorAnimationType": "R179"
 		},
 		{
@@ -91,7 +91,7 @@
 				"doorFlipped"
 			],
 			"renderStage": "INTERIOR",
-			"doorZMultiplier": 15,
+			"doorZMultiplier": 15.48,
 			"doorAnimationType": "R179"
 		},
 		{
@@ -103,7 +103,7 @@
 				"doorFlipped"
 			],
 			"renderStage": "INTERIOR",
-			"doorZMultiplier": -15,
+			"doorZMultiplier": -15.48,
 			"doorAnimationType": "R179"
 		},
 		{
@@ -350,7 +350,7 @@
 				"door"
 			],
 			"renderStage": "INTERIOR",
-			"doorZMultiplier": 15,
+			"doorZMultiplier": 15.48,
 			"doorAnimationType": "R179"
 		},
 		{
@@ -361,7 +361,7 @@
 				"door"
 			],
 			"renderStage": "INTERIOR",
-			"doorZMultiplier": -15,
+			"doorZMultiplier": -15.48,
 			"doorAnimationType": "R179"
 		},
 		{
@@ -372,7 +372,7 @@
 				"doorFlipped"
 			],
 			"renderStage": "INTERIOR",
-			"doorZMultiplier": 15,
+			"doorZMultiplier": 15.48,
 			"doorAnimationType": "R179"
 		},
 		{
@@ -383,7 +383,7 @@
 				"doorFlipped"
 			],
 			"renderStage": "INTERIOR",
-			"doorZMultiplier": -15,
+			"doorZMultiplier": -15.48,
 			"doorAnimationType": "R179"
 		},
 		{
@@ -394,7 +394,7 @@
 				"door"
 			],
 			"renderStage": "EXTERIOR",
-			"doorZMultiplier": 15,
+			"doorZMultiplier": 15.48,
 			"doorAnimationType": "R179"
 		},
 		{
@@ -405,7 +405,7 @@
 				"door"
 			],
 			"renderStage": "EXTERIOR",
-			"doorZMultiplier": -15,
+			"doorZMultiplier": -15.48,
 			"doorAnimationType": "R179"
 		},
 		{
@@ -416,7 +416,7 @@
 				"doorFlipped"
 			],
 			"renderStage": "EXTERIOR",
-			"doorZMultiplier": 15,
+			"doorZMultiplier": 15.48,
 			"doorAnimationType": "R179"
 		},
 		{
@@ -427,7 +427,7 @@
 				"doorFlipped"
 			],
 			"renderStage": "EXTERIOR",
-			"doorZMultiplier": -15,
+			"doorZMultiplier": -15.48,
 			"doorAnimationType": "R179"
 		},
 		{
