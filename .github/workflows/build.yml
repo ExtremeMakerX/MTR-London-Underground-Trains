@@ -24,6 +24,7 @@ jobs:
       - name: Setup Fabric files
         run: ./gradlew fabric:setupFiles -PminecraftVersion="${{ matrix.minecraft }}"
       - name: Setup Forge files
+        if: ${{ !contains('1.16.5 1.17.1 1.18.2', matrix.minecraft) }}
         run: ./gradlew forge:setupFiles -PminecraftVersion="${{ matrix.minecraft }}"
       - name: Build ${{ matrix.minecraft }}
         run: ./gradlew build -PminecraftVersion="${{ matrix.minecraft }}"
