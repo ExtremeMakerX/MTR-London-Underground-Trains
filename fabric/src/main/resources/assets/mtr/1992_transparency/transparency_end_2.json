@@ -7,7 +7,7 @@
 			"positionDefinitions": [
 				"doorEnd2Flipped_transparent"
 			],
-			"renderStage": "ALWAYS_ON_LIGHT",
+			"renderStage": "INTERIOR_TRANSLUCENT",
 			"doorZMultiplier": -15.48,
 			"doorAnimationType": "R179"
 		},
@@ -18,7 +18,7 @@
 			"positionDefinitions": [
 				"doorEnd2_transparent"
 			],
-			"renderStage": "ALWAYS_ON_LIGHT",
+			"renderStage": "INTERIOR_TRANSLUCENT",
 			"doorZMultiplier": 15.48,
 			"doorAnimationType": "R179"
 		},
@@ -29,7 +29,7 @@
 			"positionDefinitions": [
 				"end2Flipped_transparent"
 			],
-			"renderStage": "ALWAYS_ON_LIGHT"
+			"renderStage": "INTERIOR_TRANSLUCENT"
 		},
 		{
 			"names": [
@@ -38,7 +38,7 @@
 			"positionDefinitions": [
 				"end2Flipped_transparent"
 			],
-			"renderStage": "ALWAYS_ON_LIGHT"
+			"renderStage": "INTERIOR_TRANSLUCENT"
 		}
 	],
 	"modelYOffset": 1

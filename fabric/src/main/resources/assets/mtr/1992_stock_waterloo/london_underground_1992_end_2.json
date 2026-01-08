@@ -51,15 +51,6 @@
 		},
 		{
 			"names": [
-				"end_transperent"
-			],
-			"positionDefinitions": [
-				"end2Flipped"
-			],
-			"renderStage": "ALWAYS_ON_LIGHT"
-		},
-		{
-			"names": [
 				"end_curve"
 			],
 			"positionDefinitions": [
