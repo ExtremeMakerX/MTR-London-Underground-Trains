@@ -1,0 +1,581 @@
+{
+	"parts": [
+		{
+			"names": [
+				"3rd_rail_right"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"3rd_rail_left"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"outer_cover"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"bogie_wheels_front"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"bogie_wheels_back"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"middle_core"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"front_r_bogie_c_main"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"front_r_bogie_c_main_big_screw"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"front_r_bogie_c_main_circle_detail_1"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"front_r_bogie_c_main_circle_detail_2"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"front_r_bogie_c_main_cylinder_1"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"front_r_bogie_c_main_cylinder_2"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"front_r_bogie_c_main_detail_1"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"front_r_bogie_c_main_detail_2"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"front_r_bogie_c_main_screw_1"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"front_l_bogie_c_main"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"front_l_bogie_c_main_big_screw"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"front_l_bogie_c_main_circle_detail_1"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"front_l_bogie_c_main_circle_detail_2"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"front_l_bogie_c_main_cylinder_1"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"front_l_bogie_c_main_cylinder_2"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"front_l_bogie_c_main_detail_1"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"front_l_bogie_c_main_detail_2"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"front_l_bogie_c_main_screw_1"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"back_r_bogie_c_main"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"back_r_bogie_c_main_big_screw"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"back_r_bogie_c_main_circle_detail_1"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"back_r_bogie_c_main_circle_detail_2"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"back_r_bogie_c_main_cylinder_1"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"back_r_bogie_c_main_cylinder_2"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"back_r_bogie_c_main_detail_1"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"back_r_bogie_c_main_detail_2"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"back_r_bogie_c_main_screw_1"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"back_l_bogie_c_main"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"back_l_bogie_c_main_big_screw"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"back_l_bogie_c_main_circle_detail_1"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"back_l_bogie_c_main_circle_detail_2"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"back_l_bogie_c_main_cylinder_1"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"back_l_bogie_c_main_cylinder_2"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"back_l_bogie_c_main_detail_1"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"back_l_bogie_c_main_detail_2"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"back_l_bogie_c_main_screw_1"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"bogie_cover_back_right"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"bogie_cover_back_left"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"shield_side_right"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"right_3rd_round_cover"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"right_bogie_wire_connection"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"right_shield_side_square_connect"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"right_shield_side_square_1"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"shield_side_left"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"left_3rd_round_cover"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"left_bogie_wire_connection"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"left_shield_side_square_connect"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"left_shield_side_square_1"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"movement_spring_right"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"r_movement_spring_1"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"r_movement_spring_2"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"r_movement_spring_3"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"movement_spring_left"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"l_movement_spring_1"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"l_movement_spring_2"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"l_movement_spring_3"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"shield_inner"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"end_outer"
+			],
+			"positionDefinitions": [
+				"origin"
+			],
+			"renderStage": "EXTERIOR"
+		}
+	],
+	"modelYOffset": 1
+}

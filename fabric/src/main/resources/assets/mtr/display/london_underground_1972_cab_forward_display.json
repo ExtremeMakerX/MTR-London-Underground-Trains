@@ -1,0 +1,23 @@
+{
+	"parts": [
+			{
+			"names": [
+				"front_display_panel"
+			],
+			"positionDefinitions": [
+				"front_display"
+			],
+			"type": "DISPLAY",
+			"displayYPadding": 0.4,
+			"displayColor": "eb7d0a",
+			"displayMaxLineHeight": 2,
+			"displayCjkSizeRatio": 3,
+			"displayOptions": [
+				"ALIGN_TOP"
+			],
+			"displayType": "DESTINATION",
+			"displayDefaultText": "Elephant & Castle"
+		}
+	],
+	"modelYOffset": 1
+}

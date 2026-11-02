@@ -1,0 +1,16 @@
+{
+	"positionDefinitions": [
+		{
+			"name": "origin",
+			"positions": [
+				{}
+			]
+		},
+		{
+			"name": "origin_reverse",
+			"positionsFlipped": [
+				{}
+			]
+		}
+	]
+}

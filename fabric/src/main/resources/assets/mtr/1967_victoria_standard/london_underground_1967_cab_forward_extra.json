@@ -1,0 +1,171 @@
+{
+	"parts": [
+	    {
+			"names": [
+				"interior_floor_car_1_victoria_line"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"left_handrail_big_middle_1_blue",
+				"left_handrail_big_middle_connect_1_blue",
+				"left_handrail_big_middle_connect_2_blue",
+				"left_handrail_big_middle_connect_3_blue",
+				"right_handrail_big_middle_1_blue",
+				"right_handrail_big_middle_connect_1_blue",
+				"right_handrail_big_middle_connect_2_blue",
+				"right_handrail_big_middle_connect_3_blue",
+				"left_handrail_door_end_1_blue",
+				"left_handrail_door_end_connect_1_blue",
+				"left_handrail_door_front_1_blue",
+				"left_handrail_door_front_connect_1_blue",
+				"right_handrail_door_end_connect_1_blue",
+				"right_handrail_door_end_1_blue",
+				"right_handrail_door_front_1_blue",
+				"right_handrail_door_front_connect_1_blue"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"side_door_handle_1_blue",
+				"side_door_handle_2_blue",
+				"side_door_handle_3_blue",
+				"side_door_handle_4_blue",
+				"side_door_handle_5_blue",
+				"side_door_handle_6_blue",
+				"side_door_handle_7_blue",
+				"side_door_handle_8_blue"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"front_top_left_1_blue",
+				"front_top_left_2_blue",
+				"front_top_right_1_blue",
+				"front_top_right_2_blue",
+				"end_top_left_back_1_blue",
+				"end_top_left_back_2_blue",
+				"end_top_left_end_1_blue",
+				"end_top_right_end_1_blue",
+				"end_top_right_end_1_2_blue",
+				"end_top_right_back_1_blue",
+				"end_top_right_back_2_blue"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"side_door_handle_middle_1_blue",
+				"side_door_handle_middle_2_blue"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"right_front_real_seat_1",
+				"right_front_real_seat_2",
+				"right_front_real_seat_3",
+				"left_front_real_seat_1",
+				"left_front_real_seat_2",
+				"left_front_real_seat_3",
+				"right_end_real_seat_1",
+				"right_end_real_seat_2",
+				"right_end_real_seat_3",
+				"left_end_real_seat_1",
+				"left_end_real_seat_2",
+				"left_end_real_seat_3"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"right_middle_real_seat_1",
+				"right_middle_real_seat_2",
+				"right_middle_real_seat_3",
+				"right_middle_real_seat_4",
+				"left_middle_real_seat_1",
+				"left_middle_real_seat_2",
+				"left_middle_real_seat_3",
+				"left_middle_real_seat_4"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+	    {
+			"names": [
+				"right_real_seat_rest_1",
+				"right_real_seat_rest_2",
+				"right_real_seat_rest_3",
+				"right_real_seat_rest_4",
+				"left_real_seat_rest_1",
+				"left_real_seat_rest_2",		
+				"left_real_seat_rest_3",
+				"left_real_seat_rest_4"		
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"right_real_seat_rest_1",
+				"right_real_seat_rest_2",
+				"right_real_seat_rest_3",
+				"right_real_seat_rest_4",
+				"right_real_seat_rest_5",
+				"left_real_seat_rest_1",
+				"left_real_seat_rest_2",		
+				"left_real_seat_rest_3",
+				"left_real_seat_rest_4",		
+				"left_real_seat_rest_5"		
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"left_front_real_seat_rest_1",
+				"left_front_real_seat_rest_2",
+				"left_front_real_seat_rest_3",
+				"left_front_real_seat_rest_4",
+				"left_front_real_seat_rest_5",
+				"right_front_real_seat_rest_1",
+				"right_front_real_seat_rest_2",
+				"right_front_real_seat_rest_3",
+				"right_front_real_seat_rest_4",
+				"right_front_real_seat_rest_5"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		}
+	],
+	"modelYOffset": 1
+}

@@ -1,0 +1,20 @@
+{
+	"positionDefinitions": [
+		{
+			"name": "0_position",
+			"positions": [
+				{
+					"z": 0
+				}
+			]
+		},
+		{
+			"name": "0_position_reverse",
+			"positionsFlipped": [
+				{
+					"z": 0
+				}
+			]
+		}
+	]
+}

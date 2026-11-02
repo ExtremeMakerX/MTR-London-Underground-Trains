@@ -2545,6 +2545,3309 @@
 		"hasBarrier1": true,
 		"hasBarrier2": false,
 		"bveSoundBaseResource": "london_underground_1996"
+	},
+	{
+		"id": "london_underground_1972_cab_1_forward",
+		"name": "London Underground 1972 (Cab 1 Forward)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:bakerloo_standard/london_underground_1972_cab_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:display/1972_display.bbmodel",
+				"textureResource": "mtr:display/blank.png",
+				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_forward_display.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": false,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_cab_1_backward",
+		"name": "London Underground 1972 (Cab 1 Backward)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:bakerloo_standard/london_underground_1972_cab_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": false,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_cab_2_forward",
+		"name": "London Underground 1972 (Cab 2 Forward)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:bakerloo_standard/london_underground_1972_cab_2_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": false,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_cab_2_backward",
+		"name": "London Underground 1972 (Cab 2 Backward)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:bakerloo_standard/london_underground_1972_cab_2_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": false,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_cab_trailer_forward",
+		"name": "London Underground 1972 (Cab Trailer Forward)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:bakerloo_standard/london_underground_1972_cab_pas_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_cab_trailer_backward",
+		"name": "London Underground 1972 (Cab Trailer Backward)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:bakerloo_standard/london_underground_1972_cab_pas_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_trailer_1",
+		"name": "London Underground 1972 (Trailer 1)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:bakerloo_standard/london_underground_1972_trailer.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_trailer_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_trailer_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_trailer_2",
+		"name": "London Underground 1972 (Trailer 2)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:bakerloo_standard/london_underground_1972_trailer_2.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_new_refurb_cab_1_forward",
+		"name": "London Underground 1972 New Refurb (Cab 1 Forward)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:new_refurb_bakerloo_standard/london_underground_1972_cab_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:display/1972_display.bbmodel",
+				"textureResource": "mtr:display/blank.png",
+				"modelPropertiesResource": "mtr:display/london_underground_new_refurb_1972_cab_forward_display.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": false,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_new_refurb_cab_1_backward",
+		"name": "London Underground 1972 New Refurb (Cab 1 Backward)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:new_refurb_bakerloo_standard/london_underground_1972_cab_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": false,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_new_refurb_cab_2_forward",
+		"name": "London Underground 1972 New Refurb (Cab 2 Forward)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:new_refurb_bakerloo_standard/london_underground_1972_cab_2_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": false,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_new_refurb_cab_2_backward",
+		"name": "London Underground 1972 New Refurb (Cab 2 Backward)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:new_refurb_bakerloo_standard/london_underground_1972_cab_2_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": false,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_new_refurb_cab_trailer_forward",
+		"name": "London Underground 1972 New Refurb (Cab Trailer Forward)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:new_refurb_bakerloo_standard/london_underground_1972_cab_pas_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_new_refurb_cab_trailer_backward",
+		"name": "London Underground 1972 New Refurb (Cab Trailer Backward)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:new_refurb_bakerloo_standard/london_underground_1972_cab_pas_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_new_refurb_trailer_1",
+		"name": "London Underground 1972 New Refurb (Trailer 1)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:new_refurb_bakerloo_standard/london_underground_1972_trailer.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_trailer_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_trailer_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_new_refurb_trailer_2",
+		"name": "London Underground 1972 New Refurb (Trailer 2)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:new_refurb_bakerloo_standard/london_underground_1972_trailer_2.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_new_refurb_trailer_wc",
+		"name": "London Underground 1972 New Refurb (Trailer WC)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:new_refurb_bakerloo_standard/london_underground_1972_trailer_wc.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_2000s_cab_1_forward",
+		"name": "London Underground 1972 - 2000s (Cab 1 Forward)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:2000s_bakerloo_standard/london_underground_1972_cab_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": false,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_2000s_cab_1_backward",
+		"name": "London Underground 1972 - 2000s (Cab 1 Backward)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:2000s_bakerloo_standard/london_underground_1972_cab_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": false,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_2000s_cab_2_forward",
+		"name": "London Underground 1972 - 2000s (Cab 2 Forward)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:2000s_bakerloo_standard/london_underground_1972_cab_2_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": false,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_2000s_cab_2_backward",
+		"name": "London Underground 1972 - 2000s (Cab 2 Backward)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:2000s_bakerloo_standard/london_underground_1972_cab_2_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": false,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_2000s_cab_trailer_forward",
+		"name": "London Underground 1972 - 2000s (Cab Trailer Forward)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:2000s_bakerloo_standard/london_underground_1972_cab_pas_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_2000s_cab_trailer_backward",
+		"name": "London Underground 1972 - 2000s (Cab Trailer Backward)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:2000s_bakerloo_standard/london_underground_1972_cab_pas_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_2000s_trailer_1",
+		"name": "London Underground 1972 - 2000s (Trailer 1)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:2000s_bakerloo_standard/london_underground_1972_trailer.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_trailer_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_trailer_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_2000s_trailer_2",
+		"name": "London Underground 1972 - 2000s (Trailer 2)",
+		"color": "960019",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:2000s_bakerloo_standard/london_underground_1972_trailer_2.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_mk1_cab_1_forward",
+		"name": "London Underground 1972 Mk1 (Cab 1 Forward)",
+		"color": "a9a9a9",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_mk1/london_underground_1972_mk1.obj",
+				"modelPropertiesResource": "mtr:1972_mk1/london_underground_1972_cab_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": false,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_mk1_cab_1_backward",
+		"name": "London Underground 1972 Mk1 (Cab 1 Backward)",
+		"color": "a9a9a9",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_mk1/london_underground_1972_mk1.obj",
+				"modelPropertiesResource": "mtr:1972_mk1/london_underground_1972_cab_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": false,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_mk1_cab_2_forward",
+		"name": "London Underground 1972 Mk1 (Cab 2 Forward)",
+		"color": "a9a9a9",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_mk1/london_underground_1972_mk1.obj",
+				"modelPropertiesResource": "mtr:1972_mk1/london_underground_1972_cab_2_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": false,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_mk1_cab_2_backward",
+		"name": "London Underground 1972 Mk1 (Cab 2 Backward)",
+		"color": "a9a9a9",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_mk1/london_underground_1972_mk1.obj",
+				"modelPropertiesResource": "mtr:1972_mk1/london_underground_1972_cab_2_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": false,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_mk1_cab_trailer_forward",
+		"name": "London Underground 1972 Mk1 (Cab Trailer Forward)",
+		"color": "a9a9a9",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_mk1/london_underground_1972_mk1.obj",
+				"modelPropertiesResource": "mtr:1972_mk1/london_underground_1972_cab_pas_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_mk1_cab_trailer_backward",
+		"name": "London Underground 1972 Mk1 (Cab Trailer Backward)",
+		"color": "a9a9a9",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_mk1/london_underground_1972_mk1.obj",
+				"modelPropertiesResource": "mtr:1972_mk1/london_underground_1972_cab_pas_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_mk1_trailer_1",
+		"name": "London Underground 1972 Mk1 (Trailer 1)",
+		"color": "a9a9a9",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_mk1/london_underground_1972_mk1.obj",
+				"modelPropertiesResource": "mtr:1972_mk1/london_underground_1972_trailer.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_trailer_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_trailer_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_mk1_trailer_2",
+		"name": "London Underground 1972 Mk1 (Trailer 2)",
+		"color": "a9a9a9",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_mk1/london_underground_1972_mk1.obj",
+				"modelPropertiesResource": "mtr:1972_mk1/london_underground_1972_trailer_2.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_mk2_cab_1_forward",
+		"name": "London Underground 1972 Mk2 (Cab 1 Forward)",
+		"color": "a9a9a9",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_mk2/london_underground_1972_mk2.obj",
+				"modelPropertiesResource": "mtr:1972_mk2/london_underground_1972_cab_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": false,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_mk2_cab_1_backward",
+		"name": "London Underground 1972 Mk2 (Cab 1 Backward)",
+		"color": "a9a9a9",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_mk2/london_underground_1972_mk2.obj",
+				"modelPropertiesResource": "mtr:1972_mk2/london_underground_1972_cab_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": false,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_mk2_cab_2_forward",
+		"name": "London Underground 1972 Mk2 (Cab 2 Forward)",
+		"color": "a9a9a9",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_mk2/london_underground_1972_mk2.obj",
+				"modelPropertiesResource": "mtr:1972_mk2/london_underground_1972_cab_2_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": false,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_mk2_cab_2_backward",
+		"name": "London Underground 1972 Mk2 (Cab 2 Backward)",
+		"color": "a9a9a9",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_mk2/london_underground_1972_mk2.obj",
+				"modelPropertiesResource": "mtr:1972_mk2/london_underground_1972_cab_2_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": false,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_mk2_cab_trailer_forward",
+		"name": "London Underground 1972 Mk2 (Cab Trailer Forward)",
+		"color": "a9a9a9",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_mk2/london_underground_1972_mk2.obj",
+				"modelPropertiesResource": "mtr:1972_mk2/london_underground_1972_cab_pas_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_mk2_cab_trailer_backward",
+		"name": "London Underground 1972 Mk2 (Cab Trailer Backward)",
+		"color": "a9a9a9",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_mk2/london_underground_1972_mk2.obj",
+				"modelPropertiesResource": "mtr:1972_mk2/london_underground_1972_cab_pas_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_mk2_trailer_1",
+		"name": "London Underground 1972 Mk2 (Trailer 1)",
+		"color": "a9a9a9",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_mk2/london_underground_1972_mk2.obj",
+				"modelPropertiesResource": "mtr:1972_mk2/london_underground_1972_trailer.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_trailer_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_trailer_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_mk2_trailer_2",
+		"name": "London Underground 1972 Mk2 (Trailer 2)",
+		"color": "a9a9a9",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_mk2/london_underground_1972_mk2.obj",
+				"modelPropertiesResource": "mtr:1972_mk2/london_underground_1972_trailer_2.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_cheatline_cab_1_forward",
+		"name": "London Underground 1972 Cheatline (Cab 1 Forward)",
+		"color": "00468b",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_lu_experimental_blue_cheatline/london_underground_1972_lu_experimental_blue_cheatline.obj",
+				"modelPropertiesResource": "mtr:1972_lu_experimental_blue_cheatline/london_underground_1972_cab_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": false,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_cheatline_cab_1_backward",
+		"name": "London Underground 1972 Cheatline (Cab 1 Backward)",
+		"color": "00468b",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_lu_experimental_blue_cheatline/london_underground_1972_lu_experimental_blue_cheatline.obj",
+				"modelPropertiesResource": "mtr:1972_lu_experimental_blue_cheatline/london_underground_1972_cab_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": false,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_cheatline_cab_2_forward",
+		"name": "London Underground 1972 Cheatline (Cab 2 Forward)",
+		"color": "00468b",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_lu_experimental_blue_cheatline/london_underground_1972_lu_experimental_blue_cheatline.obj",
+				"modelPropertiesResource": "mtr:1972_lu_experimental_blue_cheatline/london_underground_1972_cab_2_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": false,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_cheatline_cab_2_backward",
+		"name": "London Underground 1972 Cheatline (Cab 2 Backward)",
+		"color": "00468b",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_lu_experimental_blue_cheatline/london_underground_1972_lu_experimental_blue_cheatline.obj",
+				"modelPropertiesResource": "mtr:1972_lu_experimental_blue_cheatline/london_underground_1972_cab_2_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": false,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_cheatline_cab_trailer_forward",
+		"name": "London Underground 1972 Cheatline (Cab Trailer Forward)",
+		"color": "00468b",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_lu_experimental_blue_cheatline/london_underground_1972_lu_experimental_blue_cheatline.obj",
+				"modelPropertiesResource": "mtr:1972_lu_experimental_blue_cheatline/london_underground_1972_cab_pas_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_cheatline_cab_trailer_backward",
+		"name": "London Underground 1972 Cheatline (Cab Trailer Backward)",
+		"color": "00468b",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_lu_experimental_blue_cheatline/london_underground_1972_lu_experimental_blue_cheatline.obj",
+				"modelPropertiesResource": "mtr:1972_lu_experimental_blue_cheatline/london_underground_1972_cab_pas_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_cheatline_trailer_1",
+		"name": "London Underground 1972 Cheatline (Trailer 1)",
+		"color": "00468b",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_lu_experimental_blue_cheatline/london_underground_1972_lu_experimental_blue_cheatline.obj",
+				"modelPropertiesResource": "mtr:1972_lu_experimental_blue_cheatline/london_underground_1972_trailer.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_trailer_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_trailer_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_cheatline_trailer_2",
+		"name": "London Underground 1972 Cheatline (Trailer 2)",
+		"color": "00468b",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_lu_experimental_blue_cheatline/london_underground_1972_lu_experimental_blue_cheatline.obj",
+				"modelPropertiesResource": "mtr:1972_lu_experimental_blue_cheatline/london_underground_1972_trailer_2.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_blue_doors_cab_1_forward",
+		"name": "London Underground 1972 Blue Doors (Cab 1 Forward)",
+		"color": "00019d",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_blue_doors/london_underground_1972_blue_doors.obj",
+				"modelPropertiesResource": "mtr:1972_blue_doors/london_underground_1972_cab_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": false,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_blue_doors_cab_1_backward",
+		"name": "London Underground 1972 Blue Doors (Cab 1 Backward)",
+		"color": "00019d",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_blue_doors/london_underground_1972_blue_doors.obj",
+				"modelPropertiesResource": "mtr:1972_blue_doors/london_underground_1972_cab_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": false,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_blue_doors_cab_2_forward",
+		"name": "London Underground 1972 Blue Doors (Cab 2 Forward)",
+		"color": "00019d",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_blue_doors/london_underground_1972_blue_doors.obj",
+				"modelPropertiesResource": "mtr:1972_blue_doors/london_underground_1972_cab_2_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": false,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_blue_doors_cab_2_backward",
+		"name": "London Underground 1972 Blue Doors (Cab 2 Backward)",
+		"color": "00019d",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_blue_doors/london_underground_1972_blue_doors.obj",
+				"modelPropertiesResource": "mtr:1972_blue_doors/london_underground_1972_cab_2_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": false,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_blue_doors_cab_trailer_forward",
+		"name": "London Underground 1972 Blue Doors (Cab Trailer Forward)",
+		"color": "00019d",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_blue_doors/london_underground_1972_blue_doors.obj",
+				"modelPropertiesResource": "mtr:1972_blue_doors/london_underground_1972_cab_pas_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_blue_doors_cab_trailer_backward",
+		"name": "London Underground 1972 Blue Doors (Cab Trailer Backward)",
+		"color": "00019d",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_blue_doors/london_underground_1972_blue_doors.obj",
+				"modelPropertiesResource": "mtr:1972_blue_doors/london_underground_1972_cab_pas_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_blue_doors_trailer_1",
+		"name": "London Underground 1972 Blue Doors (Trailer 1)",
+		"color": "00019d",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_blue_doors/london_underground_1972_blue_doors.obj",
+				"modelPropertiesResource": "mtr:1972_blue_doors/london_underground_1972_trailer.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_trailer_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_trailer_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_blue_doors_trailer_2",
+		"name": "London Underground 1972 Blue Doors (Trailer 2)",
+		"color": "00019d",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_blue_doors/london_underground_1972_blue_doors.obj",
+				"modelPropertiesResource": "mtr:1972_blue_doors/london_underground_1972_trailer_2.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_unrefurbished_cab_1_forward",
+		"name": "London Underground 1972 Unrefurbished (Cab 1 Forward)",
+		"color": "e60000",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_unrefurbished/london_underground_1972_unrefurbished.obj",
+				"modelPropertiesResource": "mtr:1972_unrefurbished/london_underground_1972_cab_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": false,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_unrefurbished_cab_1_backward",
+		"name": "London Underground 1972 Unrefurbished (Cab 1 Backward)",
+		"color": "e60000",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_unrefurbished/london_underground_1972_unrefurbished.obj",
+				"modelPropertiesResource": "mtr:1972_unrefurbished/london_underground_1972_cab_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": false,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_unrefurbished_cab_2_forward",
+		"name": "London Underground 1972 Unrefurbished (Cab 2 Forward)",
+		"color": "e60000",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_unrefurbished/london_underground_1972_unrefurbished.obj",
+				"modelPropertiesResource": "mtr:1972_unrefurbished/london_underground_1972_cab_2_forward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": false,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1972_unrefurbished_cab_2_backward",
+		"name": "London Underground 1972 Unrefurbished (Cab 2 Backward)",
+		"color": "e60000",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1972_Stock",
+		"tags": [
+			"family:london_underground_1972",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:1972_unrefurbished/london_underground_1972_unrefurbished.obj",
+				"modelPropertiesResource": "mtr:1972_unrefurbished/london_underground_1972_cab_2_backward.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": false,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1967_cab_1_forward",
+		"name": "London Underground 1967 (Cab 1 Forward)",
+		"color": "006496",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1967_Stock",
+		"tags": [
+			"family:london_underground_1967",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_cab_forward.json",
+				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
+				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:1967_victoria_standard/london_underground_1967.obj",
+				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_cab_forward_extra.json",
+				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": false,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1967_cab_1_backward",
+		"name": "London Underground 1967 (Cab 1 Backward)",
+		"color": "006496",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1967_Stock",
+		"tags": [
+			"family:london_underground_1967",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_cab_backward.json",
+				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
+				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:1967_victoria_standard/london_underground_1967.obj",
+				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_cab_backward_extra.json",
+				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": false,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1967_cab_2_forward",
+		"name": "London Underground 1967 (Cab 2 Forward)",
+		"color": "006496",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1967_Stock",
+		"tags": [
+			"family:london_underground_1967",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_cab_2_forward.json",
+				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
+				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:1967_victoria_standard/london_underground_1967.obj",
+				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_cab_forward_extra.json",
+				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": false,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1967_cab_2_backward",
+		"name": "London Underground 1967 (Cab 2 Backward)",
+		"color": "006496",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1967_Stock",
+		"tags": [
+			"family:london_underground_1967",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_cab_2_backward.json",
+				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
+				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:1967_victoria_standard/london_underground_1967.obj",
+				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_cab_backward_extra.json",
+				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": false,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1967_cab_trailer_forward",
+		"name": "London Underground 1967 (Cab Trailer Forward)",
+		"color": "006496",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1967_Stock",
+		"tags": [
+			"family:london_underground_1967",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_cab_pas_forward.json",
+				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
+				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:1967_victoria_standard/london_underground_1967.obj",
+				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_cab_forward_extra.json",
+				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1967_cab_trailer_backward",
+		"name": "London Underground 1967 (Cab Trailer Backward)",
+		"color": "006496",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.1,
+		"bogie2Position": 5.1,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1967_Stock",
+		"tags": [
+			"family:london_underground_1967",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_cab_pas_backward.json",
+				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
+				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:1967_victoria_standard/london_underground_1967.obj",
+				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_cab_backward_extra.json",
+				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1967_trailer_1",
+		"name": "London Underground 1967 (Trailer 1)",
+		"color": "006496",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1967_Stock",
+		"tags": [
+			"family:london_underground_1967",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_trailer.json",
+				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
+				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:1967_victoria_standard/london_underground_1967.obj",
+				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_trailer_extra.json",
+				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_trailer_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_trailer_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
+	},
+	{
+		"id": "london_underground_1967_trailer_2",
+		"name": "London Underground 1967 (Trailer 2)",
+		"color": "006496",
+		"transportMode": "TRAIN",
+		"width": 2,
+		"length": 16.40,
+		"bogie1Position": -5.2,
+		"bogie2Position": 5.2,
+		"couplingPadding1": 0,
+		"couplingPadding2": 0,
+		"wikipediaArticle": "London_Underground_1967_Stock",
+		"tags": [
+			"family:london_underground_1967",
+			"doors:4",
+			"type:cab_1"
+		],
+		"models": [
+			{
+				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_trailer_2.json",
+				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
+				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:1967_victoria_standard/london_underground_1967.obj",
+				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_trailer_extra.json",
+				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie1Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_front.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"bogie2Models": [
+			{
+				"modelResource": "mtr:bogie/london_underground_1972_bogie.obj",
+				"modelPropertiesResource": "mtr:bogie/bogie_3rd_rail_back.json",
+				"positionDefinitionsResource": "mtr:bogie/origin.json",
+				"flipTextureV": true
+			}
+		],
+		"hasGangway1": false,
+		"hasGangway2": false,
+		"hasBarrier1": true,
+		"hasBarrier2": true,
+		"bveSoundBaseResource": "london_underground_1972"
 	}
 ]
 }

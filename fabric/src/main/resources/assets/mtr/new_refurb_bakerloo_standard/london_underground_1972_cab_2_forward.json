@@ -1,0 +1,1258 @@
+{
+	"parts": [
+		{
+			"names": [
+				"left_exterior_door_end"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "EXTERIOR",
+			"doorZMultiplier": -11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"right_exterior_door_end"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "EXTERIOR",
+			"doorZMultiplier": -11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"left_interior_door_end"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "INTERIOR",
+			"doorZMultiplier": -11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"right_interior_door_end"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "INTERIOR",
+			"doorZMultiplier": -11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"left_exterior_door_right_back"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "EXTERIOR",
+			"doorZMultiplier": -11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"right_exterior_door_right_back"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "EXTERIOR",
+			"doorZMultiplier": -11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"left_interior_door_right_back"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "INTERIOR",
+			"doorZMultiplier": -11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"right_interior_door_right_back"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "INTERIOR",
+			"doorZMultiplier": -11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"left_exterior_door_left_back"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "EXTERIOR",
+			"doorZMultiplier": 11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"right_exterior_door_left_back"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "EXTERIOR",
+			"doorZMultiplier": 11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"left_interior_door_left_back"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "INTERIOR",
+			"doorZMultiplier": 11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"right_interior_door_left_back"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "INTERIOR",
+			"doorZMultiplier": 11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"left_exterior_door_right_front"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "EXTERIOR",
+			"doorZMultiplier": -11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"right_exterior_door_right_front"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "EXTERIOR",
+			"doorZMultiplier": -11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"left_interior_door_right_front"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "INTERIOR",
+			"doorZMultiplier": -11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"right_interior_door_right_front"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "INTERIOR",
+			"doorZMultiplier": -11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"left_exterior_door_left_front"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "EXTERIOR",
+			"doorZMultiplier": 11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"right_exterior_door_left_front"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "EXTERIOR",
+			"doorZMultiplier": 11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"left_interior_door_left_front"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "INTERIOR",
+			"doorZMultiplier": 11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"right_interior_door_left_front"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "INTERIOR",
+			"doorZMultiplier": 11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"floor_exterior_cab_car_1",
+				"main_cab_body_cab_car_1",
+				"top_main_under_body_cab_car_1",
+				"box_top_main_cab_extend",
+				"rect_bottom_connector_cab_car_1",
+				"rect_bottom_connector_cab_car_2",
+				"rect_bottom_connector_cab_car_3",
+				"rect_bottom_connector_cab_car_4",
+				"bogie_gauge_back_left_cab_car_1",
+				"bogie_gauge_back_right_cab_car_1",
+				"bogie_gauge_front_left_cab_car_1",
+				"bogie_gauge_front_right_cab_car_1"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"end_left_main_box_pipe_cab_car_1",
+				"end_right_main_box_pipe_cab_car_1",
+				"left_main_box_pipe_cab_car_1",
+				"right_main_box_pipe_cab_car_1",
+				"boxes_small_cab_car_1",
+				"boxes_detail_3_cab_car_1",
+				"main_box_end_left_side_cab_car_1",
+				"main_box_end_right_side_cab_car_1",
+				"boxes_detail_3_2_cab_car_1",
+				"boxes_detail_2_cab_car_1",
+				"boxes_detail_1_cab_car_1",
+				"boxes_cab_car_1"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"cylinder_end_connector_1",
+				"cylinder_end_connector_2",
+				"cylinder_end_connector_3",
+				"cylinder_end_connector_4"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"complex_main_sqaure_connect_1",
+				"complex_main_sqaure_connect_2",
+				"cylinders_cab_car_1",
+				"front_bottom_cover_1_cab_car_1",
+				"back_bottom_cover_1_cab_car_1",
+				"end_pipe_top_right_cab_car_1",
+				"end_pipe_top_left_cab_car_1",
+				"end_pipe_bottom_right_cab_car_1",
+				"end_pipe_bottom_left_cab_car_1"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"right_box_cab_front_cab_car_1",
+				"left_box_cab_front_cab_car_1",
+				"main_box_end_cab_car_1",
+				"main_box_end_main_cab_car_1",
+				"main_box_end_main_cab_car_1",
+				"c_left_box_cab_front_connect_1",
+				"c_right_box_cab_front_connect_1",
+				"c_left_box_cab_front_connect_2",
+				"c_right_box_cab_front_connect_2",
+				"main_under_box_cab_car_1",
+				"front_detail_1_cab_car_1",
+				"door_handle_1_cab_car_1",
+				"front_door_detail_1",
+				"front_handles_detail_cab_car_1",
+				"front_handles_detail_cab_car_1_2",
+				"exterior_front_floor_1_cab_car_1",
+				"exterior_back_floor_1_cab_car_1",
+				"front_information_display_1_cab_car_1",
+				"big_light_cab_car_1",
+				"big_light_off_cab_car_1",
+				"top_light_yellow",
+				"front_connectors_cab_car_1",
+				"coupler_front_cab_car_2",
+				"coupler_back_cab_car_1",
+				"celling_left_end_cab_car_1",
+				"celling_right_end_cab_car_1",
+				"celling_left_front_cab_car_1",
+				"celling_right_front_cab_car_1",
+				"small_celling_left_end_cab_car_1",
+				"small_celling_right_end_cab_car_1"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"end_door_interior_handle"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"end_door_bottom"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"end_door_interior"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"end_door_exterior"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"interior_cover_door_ceiling_back_left",
+				"interior_cover_door_ceiling_back_right",
+				"interior_cover_door_ceiling_end_left",
+				"interior_cover_door_ceiling_end_right",
+				"interior_cover_door_ceiling_front_left",
+				"interior_cover_door_ceiling_front_right",
+				"interior_cover_end_bac_m_middle",
+				"interior_cover_end_bac_m_right",
+				"interior_cover_end_bac_m_left",
+				"interior_cover_end_bac_left",
+				"interior_cover_end_bac_right",
+				"interior_cover_end_left",
+				"interior_cover_end_right",
+				"interior_cover_front_left",
+				"interior_cover_front_right",
+				"interior_cover_middle_left",
+				"interior_cover_middle_right",
+				"window_interior_cover_end_left_1",
+				"window_interior_cover_end_left_2",
+				"window_interior_cover_end_right_1",
+				"window_interior_cover_end_right_2",
+				"window_interior_cover_front_left_1",
+				"window_interior_cover_front_left_2",
+				"window_interior_cover_front_right_1",
+				"window_interior_cover_front_right_2",
+				"window_interior_cover_middle_left_1",
+				"window_interior_cover_middle_left_2",
+				"window_interior_cover_middle_right_1",
+				"window_interior_cover_middle_right_2",
+				"cab_window_round_cover_left",
+				"cab_window_round_cover_right"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"front_bottom_floor_cover",
+				"front_door_interior",
+				"interior_door_line_left",
+				"interior_door_line_right",
+				"top_cab_box",
+				"windows_round_cover_interior",
+				"main_big_top_left",
+				"box_bottom_left_cab",
+				"cab_bottom_rest",
+				"interior_floor_car_1",
+				"end_interior_floor_car_1",
+				"cab_back_door",
+				"cab_back_door_detail",
+				"cab_bottom_rest",
+				"cab_cover_interior_back",
+				"cab_cover_interior_front",
+				"cab_seat_1",
+				"cab_seat_2",
+				"cab_top_left_cover_1",
+				"cab_top_right_cover_1",
+				"door_left_cab_line",
+				"door_right_cab_line",
+				"interior_cover_left",
+				"interior_cover_right",
+				"left_cab_seat_1",
+				"left_cab_seat_1_2",
+				"left_cab_seat_2",
+				"seat_left_bottom_square",
+				"seat_rest_left",
+				"seat_rest_right"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"cab_left_part_1",
+				"cab_left_part_1_bottom",
+				"cab_left_part_1_bottom_2",
+				"cab_left_part_2",
+				"cab_top_box_main",
+				"cab_top_left_cover_2"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"square_cab_seat_connection_t1",
+				"square_cab_seat_connection_t2",
+				"square_cab_seat_connection_1",
+				"square_cab_seat_connection_2",
+				"square_cab_seat_connection_3",
+				"square_cab_seat_connection_4",
+				"square_cab_seat_connection_back",
+				"square_cab_seat_connection_bottom",
+				"square_left_seat_connection_1",
+				"square_left_seat_connection_2"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"box_bottom_left_cab",
+				"box_bottom_right_cab",
+				"box_top_main_cab",
+				"box_top_main_cab_extend"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"cab_display",
+				"cab_turn_cylinder_1",
+				"cab_turn_cylinder_round",
+				"cab_turn_handle_1",
+				"cab_turn_handle_2",
+				"cab_turn_handle_3",
+				"cab_turn_handle_4",
+				"left_round_cup",
+				"cylinder_round_circle_1",
+				"cylinder_round_circle_2",
+				"cylinder_round_square",
+                "left_box_extend_1",
+				"left_box_extend_2",
+				"left_box_extend_3",
+				"left_box_extend_4",
+                "left_box_extend_detail_1",
+				"left_box_extend_detail_2",
+                "main_big_left",
+				"main_big_top_left",
+				"side_door_detail_1",
+				"side_door_detail_2",
+				"side_door_detail_3",
+				"side_door_detail_4",
+				"side_door_handle_1",
+				"side_door_handle_2",
+				"side_door_handle_3",
+				"side_door_handle_4",
+				"side_door_handle_5",
+				"side_door_handle_6",
+				"side_door_handle_7",
+				"side_door_handle_8",
+				"side_door_detail_6",
+				"side_door_detail_7",
+				"side_door_detail_8",
+				"side_door_detail_9",
+				"side_door_detail_10",
+				"side_door_detail_11",
+				"side_door_detail_12",
+				"side_door_detail_13",
+				"side_door_detail_14",
+				"side_door_detail_15",
+				"side_door_middle_left_1",
+				"side_door_middle_left_2",
+				"side_door_middle_right_1",
+				"side_door_middle_right_2",
+				"middle_seat_bottom_1",
+				"middle_seat_bottom_2",
+				"middle_seat_bottom_3",
+				"middle_seat_bottom_4",
+				"middle_seat_bottom_5",
+				"middle_seat_bottom_6",
+				"side_door_detail_middle_2",
+				"side_door_handle_middle_2",
+				"side_door_detail_middle_1",
+				"side_door_handle_middle_1",
+				"side_door_back_left",
+				"side_door_back_right",
+				"side_door_end_left",
+				"side_door_end_right",
+				"side_door_front_left",
+				"side_door_front_right"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"left_handrail_big_middle_1",
+				"left_handrail_big_middle_connect_1",
+				"left_handrail_big_middle_connect_2",
+				"left_handrail_big_middle_connect_3",
+				"right_handrail_big_middle_1",
+				"right_handrail_big_middle_connect_1",
+				"right_handrail_big_middle_connect_2",
+				"right_handrail_big_middle_connect_3",
+				"left_handrail_door_end_1",
+				"left_handrail_door_end_connect_1",
+				"left_handrail_door_front_1",
+				"left_handrail_door_front_connect_1",
+				"right_handrail_door_end_1",
+				"right_handrail_door_end_connect_1",
+				"right_handrail_door_front_1",
+				"right_handrail_door_front_connect_1"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"top_back_left_1",
+				"top_back_left_2",
+				"top_back_right_1",
+				"top_back_right_2",
+				"top_front_right_1",
+				"top_front_right_2"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"left_front_real_detail_1",
+				"left_front_real_detail_2",
+				"left_front_real_detail_3",
+				"left_front_real_detail_4",
+				"left_front_real_detail_5",
+				"right_front_real_detail_1",
+				"right_front_real_detail_2",
+				"right_front_real_detail_3",	
+				"right_front_real_detail_4",
+				"right_front_real_detail_5",
+				"left_end_real_detail_1",
+				"left_end_real_detail_2",
+				"left_end_real_detail_3",
+				"left_end_real_detail_4",
+				"left_end_real_detail_5",
+				"right_end_real_detail_1",
+				"right_end_real_detail_2",
+				"right_end_real_detail_3",
+				"right_end_real_detail_4",
+				"right_end_real_detail_5",
+				"right_front_real_seat_1",
+				"right_front_real_seat_2",
+				"right_front_real_seat_3",
+				"right_end_real_seat_1",
+				"right_end_real_seat_2",
+				"right_end_real_seat_3",
+				"right_middle_real_seat_1",
+				"right_middle_real_seat_2",
+				"right_middle_real_seat_3",
+				"right_middle_real_seat_4",
+				"right_middle_seat_side_box_1",
+				"right_middle_seat_side_box_2",
+				"right_middle_seat_side_box_3",
+				"seat_side_box_1_2",
+				"seat_side_box_2",
+				"left_middle_real_seat_1",
+				"left_middle_real_seat_2",
+				"left_middle_real_seat_3",
+				"left_middle_real_seat_4",
+				"left_middle_seat_side_box_1",
+				"left_middle_seat_side_box_2",
+				"left_middle_seat_side_box_3",
+				"left_front_real_seat_1",
+				"left_front_real_seat_2",
+				"left_front_real_seat_3",
+				"left_end_real_seat_1",
+				"left_end_real_seat_2",
+				"left_end_real_seat_3",
+				"seat_side_box",
+				"seat_side_box_1",
+				"front_right_seat_bottom",
+				"front_left_seat_bottom",
+				"end_right_seat_bottom",
+				"end_left_seat_bottom"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"back_round_bottom"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"end_door_bottom_exterior",
+				"end_door_exterior_back",
+				"train_barriers_back_cover_left",
+				"train_barriers_back_cover_right",
+				"train_barriers_back_top",
+				"body_train_barrier_connect_left_cab_car_1",
+				"body_train_barrier_connect_right_cab_car_1",
+				"door_top_curve_1_cab_car",
+				"door_top_curve_2_cab_car",
+				"door_top_curve_3_cab_car",
+				"door_top_curve_4_cab_car",
+				"door_top_curve_5_cab_car",
+				"door_top_curve_6r_cab_car",
+				"door_top_curve_7r_cab_car",
+				"door_top_curve_8r_cab_car",
+				"door_top_curve_9r_cab_car",
+				"door_top_curve_10r_cab_car"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"big_light_off_cab_car_1"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"big_light_bright_cab_car_1"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"condition": "ON_ROUTE_FORWARDS",
+		    "renderStage": "ALWAYS_ON_LIGHT"
+		},
+		{
+			"names": [
+				"tail_light_connector_left_cab_car_1"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"tail_light_left_cab_car_1"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"tail_light_left_on_cab_car_1"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"condition": "ON_ROUTE_BACKWARDS",
+			"renderStage": "ALWAYS_ON_LIGHT"
+		},
+		{
+			"names": [
+				"tail_light_connector_left_cab_car_1"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"tail_light_right_cab_car_1"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"tail_light_connector_right_cab_car_1"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"tail_light_right_on_cab_car_1"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"condition": "ON_ROUTE_BACKWARDS",
+			"renderStage": "ALWAYS_ON_LIGHT"
+		},
+		{
+			"names": [
+				"tail_light_right_2_cab_car_1"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"tail_light_connector_right_2_cab_car_1"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"top_light_end_left",
+				"top_light_end_right",
+				"top_light_front_left",
+				"top_light_front_right",
+				"top_light_middle_right",
+				"top_light_middle_left"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"air_conditioner_1",
+				"air_conditioner_2",
+				"air_conditioner_3",
+				"air_conditioner_4",
+				"air_conditioner_5",
+				"air_conditioner_6",
+				"air_conditioner_7"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"ceiling_interior_cover_cab_left"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"ceiling_interior_cover_cab_right"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"front_celling_interior_cover_cab_left"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"front_celling_interior_cover_cab_right"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"t_window_front_cab_right",
+				"t_window_front_cab_left",
+				"t_window_front_door",
+				"t_window_end_door",
+				"t_window_front_cab_side_right",
+				"t_window_front_cab_side_left",
+				"t_window_front_right_1",
+				"t_window_front_left_1",
+				"t_window_front_right_2",
+				"t_window_front_left_2",
+				"t_window_middle_right_1",
+				"t_window_middle_left_1",
+				"t_window_middle_right_2",	
+				"t_window_middle_left_2",
+				"t_window_back_right_1",
+				"t_window_back_left_1",
+				"t_window_back_right_2",
+				"t_window_back_left_2"
+
+
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR_TRANSLUCENT"
+		},
+	    {
+			"names": [
+				"end_top_left_back_1",
+				"end_top_left_back_2",
+				"end_top_left_end_1",
+				"end_top_right_end_1",
+				"end_top_right_end_1_2",
+				"end_top_right_back_1",
+				"end_top_right_back_2",
+				"front_top_left_1",
+				"front_top_left_2",
+				"front_top_right_1",
+				"front_top_right_2"
+
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"box_bottom_left_cab_fix"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"interior_door_line_right_fix_1"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"interior_door_line_right_fix_2"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"t_window_front_side_door_left_1"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": -11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"t_window_front_side_door_right_1"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": -11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"t_window_front_side_door_left_2"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": 11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"t_window_front_side_door_right_2"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": 11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"t_window_back_side_door_left_1"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": -11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"t_window_back_side_door_right_1"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": -11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"t_window_back_side_door_left_2"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": 11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"t_window_back_side_door_right_2"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": 11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"t_window_end_side_door_right"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": -11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"t_window_end_side_door_left"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR_TRANSLUCENT",
+			"doorZMultiplier": -11.5,
+			"doorAnimationType": "R179"
+		},
+		{
+			"names": [
+				"top_end_left_light",
+				"top_end_right_light",
+				"top_back_left_light_1",
+				"top_back_left_light_2",
+				"top_back_right_light_1",
+				"top_back_right_light_2",
+				"top_front_left_light_1",
+				"top_front_left_light_2",
+				"top_front_right_light_1",
+				"top_front_right_light_2",
+				"top_middle_left_light_1",
+				"top_middle_left_light_2",
+				"top_middle_right_light_1",
+				"top_middle_right_light_2",
+				"top_light_front_left_1",
+				"top_light_front_left_2",
+				"top_light_front_left_3",
+				"top_light_front_left_4",
+				"top_light_front_right_1",
+				"top_light_front_right_2",
+				"top_light_front_right_3",
+				"top_light_front_right_4",
+				"top_light_middle_left_1",
+				"top_light_middle_left_2",
+				"top_light_middle_left_3",
+				"top_light_middle_left_4",
+				"top_light_middle_right_1",
+				"top_light_middle_right_2",
+				"top_light_middle_right_3",
+				"top_light_middle_right_4",
+				"top_light_on_end_left_1",
+				"top_light_on_end_left_2",
+				"top_light_on_end_left_3",
+				"top_light_on_end_left_4",
+				"top_light_on_end_right_1",
+				"top_light_on_end_right_2",
+				"top_light_on_end_right_3",
+				"top_light_on_end_right_4",
+				"top_light_back_left_1",
+				"top_light_back_left_2",
+				"top_light_back_right_1",
+				"top_light_back_right_2"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "LIGHT"
+		},
+		{
+			"names": [
+				"interior_cover_line_door_ceiling_end",
+				"interior_cover_line_door_ceiling_end_2",
+				"interior_cover_line_door_ceiling_middle",
+				"interior_cover_line_door_ceiling_middle_2",
+				"interior_cover_line_door_ceiling_front"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"main_ad_connector_end_left_cc_1",
+				"main_ad_connector_end_right_cc_1",
+				"main_ad_connector_middle_left_cc_1",
+				"main_ad_connector_middle_right_cc_1",
+				"main_ad_connector_front_left_cc_1",
+				"main_ad_connector_front_right_cc_1"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+			    "ad_space_end_left_1_cab_car",
+                "ad_space_end_left_2_cab_car",
+                "ad_space_end_left_3_cab_car",
+                "ad_space_end_left_4_cab_car",
+                "ad_space_end_left_5_cab_car",
+                "ad_space_end_right_1_cab_car",
+                "ad_space_end_right_2_cab_car",
+                "ad_space_end_right_3_cab_car",
+                "ad_space_end_right_4_cab_car",
+                "ad_space_end_right_5_cab_car",
+                "ad_space_front_left_1_cab_car",
+                "ad_space_front_left_2_cab_car",
+                "ad_space_front_left_3_cab_car",
+                "ad_space_front_left_4_cab_car",
+                "ad_space_front_left_5_cab_car",
+                "ad_space_front_right_1_cab_car",
+                "ad_space_front_right_2_cab_car",
+                "ad_space_front_right_3_cab_car",
+                "ad_space_front_right_4_cab_car",
+                "ad_space_front_right_5_cab_car",
+                "ad_space_middle_left_1_cab_car",
+                "ad_space_middle_left_2_cab_car",
+                "ad_space_middle_left_3_cab_car",
+                "ad_space_middle_left_4_cab_car",
+                "ad_space_middle_left_5_cab_car",
+                "ad_space_middle_right_1_cab_car",
+                "ad_space_middle_right_2_cab_car",
+                "ad_space_middle_right_3_cab_car",
+                "ad_space_middle_right_4_cab_car",
+                "ad_space_middle_right_5_cab_car"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR"
+		},
+		{
+			"names": [
+				"glass_panel_back_1_cab_car",
+				"glass_panel_back_2_cab_car",
+				"glass_panel_back_3_cab_car",
+				"glass_panel_back_4_cab_car",
+				"glass_panel_middle_1_cab_car",
+				"glass_panel_middle_2_cab_car",
+				"glass_panel_middle_3_cab_car",
+				"glass_panel_middle_4_cab_car",
+				"glass_panel_front_1_cab_car",
+				"glass_panel_front_2_cab_car"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "INTERIOR_TRANSLUCENT"
+		},
+		{
+			"names": [
+				"back_left_exterior_b_cover_cab_car",
+				"back_right_exterior_b_cover_cab_car",
+				"end_left_exterior_b_cover_cab_car",
+				"end_right_exterior_b_cover_cab_car",
+				"front_left_exterior_b_cover_cab_car",
+				"front_right_exterior_b_cover_cab_car"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+		    "renderStage": "EXTERIOR"
+		},
+		{
+			"names": [
+				"front_display_panel"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"type": "DISPLAY",
+			"displayYPadding": 0.4,
+			"displayColor": "BDD200",
+			"displayMaxLineHeight": 2,
+			"displayCjkSizeRatio": 3,
+			"displayOptions": [
+				"ALIGN_CENTER"
+			],
+			"displayType": "DESTINATION",
+			"displayDefaultText": "Elephant & Castle"
+		},
+			{
+			"names": [
+				"psd_end_left_black_display_all_car",
+				"psd_end_left_box_all_car",
+				"psd_end_right_black_display_all_car",
+				"psd_end_right_box_all_car",
+				"psd_front_left_black_display_all_car",
+				"psd_front_left_box_all_car",
+				"psd_front_right_black_display_all_car",
+				"psd_front_right_box_all_car",
+				"psd_middle_left_black_display_all_car",
+				"psd_middle_left_box_all_car",
+				"psd_middle_right_black_display_all_car ",
+				"psd_middle_right_box_all_car"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"type": "INTERIOR"
+		},
+		{
+			"names": [
+				"cab_car_doorway_1_left",
+				"cab_car_doorway_2_left",
+				"cab_car_doorway_3_left",
+				"cab_car_doorway_1_right",
+				"cab_car_doorway_2_right",
+				"cab_car_doorway_3_right"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"type": "DOORWAY"
+		},
+		{
+			"names": [
+				"passenger_car_floor"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"type": "FLOOR"
+		}
+	],
+	"modelYOffset": 1,
+	"barrierInnerSideResource": "mtr:barrier/london_underground_1972_barrier.png",
+	"barrierOuterSideResource": "mtr:barrier/london_underground_1972_barrier.png",
+	"barrierWidth": 2.55,
+	"barrierHeight": 1,
+	"barrierYOffset": 1,
+	"barrierZOffset": 0.30
+}
