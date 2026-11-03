@@ -4,7 +4,7 @@
 			"name": "front_display",
 			"positions": [
 				{
-					"z": -180
+					"z": -127
 				}
 			]
 		},
@@ -12,7 +12,7 @@
 			"name": "front_display_reverse",
 			"positionsFlipped": [
 				{
-					"z": 180
+					"z": 127
 				}
 			]
 		},

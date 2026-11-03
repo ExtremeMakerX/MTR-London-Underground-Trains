@@ -1,0 +1,42 @@
+{
+	"parts": [
+			{
+			"names": [
+				"front_display_panel"
+			],
+			"positionDefinitions": [
+				"front_display_reverse"
+			],
+			"type": "DISPLAY",
+			"displayYPadding": 0.4,
+			"displayColor": "eb7d0a",
+			"displayMaxLineHeight": 2,
+			"displayCjkSizeRatio": 3,
+			"displayOptions": [
+				"ALIGN_TOP"
+			],
+			"displayType": "DESTINATION",
+			"displayDefaultText": "Elephant & Castle",
+				"condition": "ON_ROUTE_FORWARDS"
+		},
+		{
+			"names": [
+				"inside_display_panel"
+			],
+			"positionDefinitions": [
+				"middle_left_display"
+			],
+			"type": "DISPLAY",
+			"displayYPadding": 0.4,
+			"displayColor": "eb7d0a",
+			"displayMaxLineHeight": 1,
+			"displayCjkSizeRatio": 1,
+			"displayOptions": [
+				"SCROLL_NORMAL"
+			],
+			"displayType": "DESTINATION",
+			"displayDefaultText": "Please stand clear as you step from the train"
+		}
+	],
+	"modelYOffset": 1
+}

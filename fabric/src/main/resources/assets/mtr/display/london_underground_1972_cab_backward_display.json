@@ -1,0 +1,25 @@
+{
+	"parts": [
+			{
+			"names": [
+				"front_display_panel"
+			],
+			"positionDefinitions": [
+				"front_display_reverse"
+			],
+			"type": "DISPLAY",
+			"displayYPadding": 0.4,
+			"displayColor": "F8FD41",
+			"displayMaxLineHeight": 2,
+			"displayCjkSizeRatio": 3,
+			"displayOptions": [
+				"UPPER_CASE",
+				"ALIGN_TOP"
+			],
+			"displayType": "DESTINATION",
+			"displayDefaultText": "Elephant & Castle",
+				"condition": "ON_ROUTE_BACKWARDS"
+		}
+	],
+	"modelYOffset": 1
+}

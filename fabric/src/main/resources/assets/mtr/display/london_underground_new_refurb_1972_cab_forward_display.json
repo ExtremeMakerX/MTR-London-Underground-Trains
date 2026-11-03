@@ -16,7 +16,8 @@
 				"ALIGN_TOP"
 			],
 			"displayType": "DESTINATION",
-			"displayDefaultText": "Elephant & Castle"
+			"displayDefaultText": "Elephant & Castle",
+				"condition": "ON_ROUTE_FORWARDS"
 		},
 		{
 			"names": [
