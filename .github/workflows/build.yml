@@ -37,7 +37,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Send Release Notes
-        uses: SethCohen/github-releases-to-discord@v1.20.0
+        uses: Ilshidur/action-discord@master
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         with:
-          webhook_url: ${{ secrets.DISCORD_WEBHOOK }}
-          color: "25c4cd"
+            args: |
+              ✅ Build Status: SUCCESS
+
+              📝 Changelog:
+               ${{ github.event.head_commit.message }}
