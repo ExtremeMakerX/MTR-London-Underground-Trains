@@ -37,12 +37,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Send Release Notes
-        uses: Ilshidur/action-discord@master
-        env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        uses: tsickert/discord-webhook@v7.0.0
         with:
-            args: |
+            webhook-url: ${{ secrets.DISCORD_WEBHOOK }}
+            content: |
               ✅ Build Status: SUCCESS
 
               📝 Changelog:
-               ${{ github.event.head_commit.message }}
+              ${{ github.event.head_commit.message }}
