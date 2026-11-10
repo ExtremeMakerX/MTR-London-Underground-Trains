@@ -1,5 +1,5 @@
 # MTR London Underground Trains
-![LU Trains Banner](https://cdn.modrinth.com/data/cached_images/97a7007340e54400b1bfa26adb0ccc44e88f58e2.png)
+![LU Trains Banner](https://cdn.modrinth.com/data/cached_images/415458a59ca0c517d935857630225b7c0f1832ab_0.webp)
 ## Setup
 
 1. Clone this repository
