@@ -2,7 +2,7 @@
 	"parts": [
 		{
 			"names": [
-				"left_exterior_door_front_p_car_red_doors"
+				"left_exterior_door_front_p_car_red_door"
 			],
 			"positionDefinitions": [
 				"0_position"
@@ -13,7 +13,7 @@
 		},
 		{
 			"names": [
-				"right_exterior_door_front_p_car_red_doors"
+				"right_exterior_door_front_p_car_red_door"
 			],
 			"positionDefinitions": [
 				"0_position"
@@ -948,7 +948,7 @@
 				"0_position"
 			],
 		    "renderStage": "INTERIOR_TRANSLUCENT",
-			"doorZMultiplier": -11.5,
+			"doorZMultiplier": 11.5,
 			"doorAnimationType": "R179"
 		},
 		{

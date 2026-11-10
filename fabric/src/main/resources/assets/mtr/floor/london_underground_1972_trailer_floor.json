@@ -1,0 +1,45 @@
+{
+	"parts": [
+	
+		{
+			"names": [
+				"car_doorway_2_doors"
+			],
+			"positionDefinitions": [
+				"cab_doorway_2_doors",
+				"cab_doorway_2_doors_flipped"
+			],
+			"type": "DOORWAY"
+		},
+		{
+			"names": [
+				"car_doorway_1_door"
+			],
+			"positionDefinitions": [
+				"cab_doorway_1_door",
+				"cab_doorway_1_door_flipped"
+			],
+			"type": "DOORWAY"
+		},
+		{
+			"names": [
+				"cab_car_floor_window_1"
+			],
+			"positionDefinitions": [
+				"trailer_window_1_floor",
+				"trailer_window_1_floor_flipped"
+			],
+			"type": "FLOOR"
+		},
+		{
+			"names": [
+				"passenger_car_floor"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"type": "FLOOR"
+		}
+	],
+	"modelYOffset": 1
+}

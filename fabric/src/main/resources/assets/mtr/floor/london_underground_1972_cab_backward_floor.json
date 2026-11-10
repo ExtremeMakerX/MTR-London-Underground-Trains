@@ -1,0 +1,75 @@
+{
+	"parts": [
+	
+		{
+			"names": [
+				"car_doorway_2_doors"
+			],
+			"positionDefinitions": [
+				"cab_doorway_2_doors",
+				"cab_doorway_2_doors_flipped"
+			],
+			"type": "DOORWAY"
+		},
+		{
+			"names": [
+				"car_doorway_1_door"
+			],
+			"positionDefinitions": [
+				"cab_doorway_1_door_reverse",
+				"cab_doorway_1_door_flipped_reverse"
+			],
+			"type": "DOORWAY"
+		},
+		{
+			"names": [
+				"cab_car_floor_extend_2"
+			],
+			"positionDefinitions": [
+				"cab_doorway_2_doors",
+				"cab_doorway_2_doors_flipped"
+			],
+			"type": "FLOOR"
+		},
+		{
+			"names": [
+				"cab_car_floor_extend_1"
+			],
+			"positionDefinitions": [
+				"cab_doorway_1_door",
+				"cab_doorway_1_door_flipped"
+			],
+			"type": "FLOOR"
+		},
+		{
+			"names": [
+				"cab_car_floor_window_1"
+			],
+			"positionDefinitions": [
+				"cab_window_1_floor",
+				"cab_window_1_floor_flipped"
+			],
+			"type": "FLOOR"
+		},
+		{
+			"names": [
+				"cab_car_floor_window_2"
+			],
+			"positionDefinitions": [
+				"cab_window_2_floor",
+				"cab_window_2_floor_flipped"
+			],
+			"type": "FLOOR"
+		},
+		{
+			"names": [
+				"cab_car_floor"
+			],
+			"positionDefinitions": [
+				"0_position"
+			],
+			"type": "FLOOR"
+		}
+	],
+	"modelYOffset": 1
+}

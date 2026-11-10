@@ -2560,7 +2560,7 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
+			"doors:3",
 			"type:cab_1"
 		],
 		"models": [
@@ -2575,6 +2575,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_forward_display.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -2613,7 +2619,7 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
+			"doors:3",
 			"type:cab_1"
 		],
 		"models": [
@@ -2628,6 +2634,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_backward_display.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -2666,8 +2678,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_2"
 		],
 		"models": [
 			{
@@ -2681,6 +2693,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_forward_display.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -2719,8 +2737,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_2"
 		],
 		"models": [
 			{
@@ -2734,6 +2752,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_backward_display.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -2772,8 +2796,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_trailer"
 		],
 		"models": [
 			{
@@ -2781,6 +2805,12 @@
 				"modelPropertiesResource": "mtr:bakerloo_standard/london_underground_1972_cab_pas_forward.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -2819,8 +2849,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_trailer"
 		],
 		"models": [
 			{
@@ -2828,6 +2858,12 @@
 				"modelPropertiesResource": "mtr:bakerloo_standard/london_underground_1972_cab_pas_backward.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -2867,7 +2903,7 @@
 		"tags": [
 			"family:london_underground_1972",
 			"doors:4",
-			"type:cab_1"
+			"type:trailer"
 		],
 		"models": [
 			{
@@ -2875,6 +2911,12 @@
 				"modelPropertiesResource": "mtr:bakerloo_standard/london_underground_1972_trailer.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_trailer_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -2914,7 +2956,7 @@
 		"tags": [
 			"family:london_underground_1972",
 			"doors:4",
-			"type:cab_1"
+			"type:trailer"
 		],
 		"models": [
 			{
@@ -2922,6 +2964,12 @@
 				"modelPropertiesResource": "mtr:bakerloo_standard/london_underground_1972_trailer_2.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_trailer_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -2960,7 +3008,7 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
+			"doors:3",
 			"type:cab_1"
 		],
 		"models": [
@@ -2975,7 +3023,14 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_new_refurb_1972_cab_forward_display.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
+
 		],
 		"bogie1Models": [
 			{
@@ -3013,7 +3068,7 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
+			"doors:3",
 			"type:cab_1"
 		],
 		"models": [
@@ -3028,6 +3083,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_new_refurb_1972_cab_backward_display.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -3066,8 +3127,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_2"
 		],
 		"models": [
 			{
@@ -3081,6 +3142,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_new_refurb_1972_cab_forward_display.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -3119,8 +3186,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_2"
 		],
 		"models": [
 			{
@@ -3134,6 +3201,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_new_refurb_1972_cab_backward_display.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -3172,8 +3245,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_trailer"
 		],
 		"models": [
 			{
@@ -3181,6 +3254,12 @@
 				"modelPropertiesResource": "mtr:new_refurb_bakerloo_standard/london_underground_1972_cab_pas_forward.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -3219,8 +3298,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_trailer"
 		],
 		"models": [
 			{
@@ -3228,6 +3307,12 @@
 				"modelPropertiesResource": "mtr:new_refurb_bakerloo_standard/london_underground_1972_cab_pas_backward.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -3267,7 +3352,7 @@
 		"tags": [
 			"family:london_underground_1972",
 			"doors:4",
-			"type:cab_1"
+			"type:trailer"
 		],
 		"models": [
 			{
@@ -3275,6 +3360,12 @@
 				"modelPropertiesResource": "mtr:new_refurb_bakerloo_standard/london_underground_1972_trailer.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_trailer_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -3314,7 +3405,7 @@
 		"tags": [
 			"family:london_underground_1972",
 			"doors:4",
-			"type:cab_1"
+			"type:trailer"
 		],
 		"models": [
 			{
@@ -3322,6 +3413,12 @@
 				"modelPropertiesResource": "mtr:new_refurb_bakerloo_standard/london_underground_1972_trailer_2.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_trailer_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -3361,7 +3458,7 @@
 		"tags": [
 			"family:london_underground_1972",
 			"doors:4",
-			"type:cab_1"
+			"type:trailer"
 		],
 		"models": [
 			{
@@ -3407,7 +3504,7 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
+			"doors:3",
 			"type:cab_1"
 		],
 		"models": [
@@ -3422,6 +3519,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_forward_display.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -3460,7 +3563,7 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
+			"doors:3",
 			"type:cab_1"
 		],
 		"models": [
@@ -3475,6 +3578,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_backward_display.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -3513,8 +3622,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_2"
 		],
 		"models": [
 			{
@@ -3528,6 +3637,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_forward_display.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -3566,8 +3681,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_2"
 		],
 		"models": [
 			{
@@ -3581,6 +3696,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_backward_display.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -3619,8 +3740,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_trailer"
 		],
 		"models": [
 			{
@@ -3628,6 +3749,12 @@
 				"modelPropertiesResource": "mtr:2000s_bakerloo_standard/london_underground_1972_cab_pas_forward.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -3666,8 +3793,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_trailer"
 		],
 		"models": [
 			{
@@ -3675,6 +3802,12 @@
 				"modelPropertiesResource": "mtr:2000s_bakerloo_standard/london_underground_1972_cab_pas_backward.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -3714,7 +3847,7 @@
 		"tags": [
 			"family:london_underground_1972",
 			"doors:4",
-			"type:cab_1"
+			"type:trailer"
 		],
 		"models": [
 			{
@@ -3722,6 +3855,12 @@
 				"modelPropertiesResource": "mtr:2000s_bakerloo_standard/london_underground_1972_trailer.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_trailer_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -3761,7 +3900,7 @@
 		"tags": [
 			"family:london_underground_1972",
 			"doors:4",
-			"type:cab_1"
+			"type:trailer"
 		],
 		"models": [
 			{
@@ -3769,6 +3908,12 @@
 				"modelPropertiesResource": "mtr:2000s_bakerloo_standard/london_underground_1972_trailer_2.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_trailer_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -3807,7 +3952,7 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
+			"doors:3",
 			"type:cab_1"
 		],
 		"models": [
@@ -3822,6 +3967,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_forward_display_white.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -3860,7 +4011,7 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
+			"doors:3",
 			"type:cab_1"
 		],
 		"models": [
@@ -3875,6 +4026,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_backward_display_white.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -3913,8 +4070,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_2"
 		],
 		"models": [
 			{
@@ -3928,6 +4085,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_forward_display_white.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -3966,8 +4129,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_2"
 		],
 		"models": [
 			{
@@ -3981,6 +4144,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_backward_display_white.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -4019,8 +4188,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_trailer"
 		],
 		"models": [
 			{
@@ -4028,6 +4197,12 @@
 				"modelPropertiesResource": "mtr:1972_mk1/london_underground_1972_cab_pas_forward.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -4066,8 +4241,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_trailer"
 		],
 		"models": [
 			{
@@ -4075,6 +4250,12 @@
 				"modelPropertiesResource": "mtr:1972_mk1/london_underground_1972_cab_pas_backward.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -4114,7 +4295,7 @@
 		"tags": [
 			"family:london_underground_1972",
 			"doors:4",
-			"type:cab_1"
+			"type:trailer"
 		],
 		"models": [
 			{
@@ -4122,6 +4303,12 @@
 				"modelPropertiesResource": "mtr:1972_mk1/london_underground_1972_trailer.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_trailer_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -4161,7 +4348,7 @@
 		"tags": [
 			"family:london_underground_1972",
 			"doors:4",
-			"type:cab_1"
+			"type:trailer"
 		],
 		"models": [
 			{
@@ -4169,6 +4356,12 @@
 				"modelPropertiesResource": "mtr:1972_mk1/london_underground_1972_trailer_2.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_trailer_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -4207,7 +4400,7 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
+			"doors:3",
 			"type:cab_1"
 		],
 		"models": [
@@ -4222,6 +4415,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_forward_display_white.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -4260,7 +4459,7 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
+			"doors:3",
 			"type:cab_1"
 		],
 		"models": [
@@ -4275,6 +4474,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_backward_display_white.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -4313,8 +4518,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_2"
 		],
 		"models": [
 			{
@@ -4328,6 +4533,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_forward_display_white.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -4366,8 +4577,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_2"
 		],
 		"models": [
 			{
@@ -4381,6 +4592,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_backward_display_white.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -4420,7 +4637,7 @@
 		"tags": [
 			"family:london_underground_1972",
 			"doors:4",
-			"type:cab_1"
+			"type:cab_trailer"
 		],
 		"models": [
 			{
@@ -4428,6 +4645,12 @@
 				"modelPropertiesResource": "mtr:1972_mk2/london_underground_1972_cab_pas_forward.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -4466,8 +4689,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_trailer"
 		],
 		"models": [
 			{
@@ -4475,6 +4698,12 @@
 				"modelPropertiesResource": "mtr:1972_mk2/london_underground_1972_cab_pas_backward.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -4514,7 +4743,7 @@
 		"tags": [
 			"family:london_underground_1972",
 			"doors:4",
-			"type:cab_1"
+			"type:trailer"
 		],
 		"models": [
 			{
@@ -4522,6 +4751,12 @@
 				"modelPropertiesResource": "mtr:1972_mk2/london_underground_1972_trailer.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_trailer_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -4561,7 +4796,7 @@
 		"tags": [
 			"family:london_underground_1972",
 			"doors:4",
-			"type:cab_1"
+			"type:trailer"
 		],
 		"models": [
 			{
@@ -4569,6 +4804,12 @@
 				"modelPropertiesResource": "mtr:1972_mk2/london_underground_1972_trailer_2.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_trailer_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -4607,7 +4848,7 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
+			"doors:3",
 			"type:cab_1"
 		],
 		"models": [
@@ -4622,6 +4863,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_forward_display_white.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -4660,7 +4907,7 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
+			"doors:3",
 			"type:cab_1"
 		],
 		"models": [
@@ -4675,6 +4922,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_backward_display_white.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -4713,8 +4966,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_2"
 		],
 		"models": [
 			{
@@ -4728,6 +4981,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_forward_display_white.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -4766,8 +5025,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_2"
 		],
 		"models": [
 			{
@@ -4781,6 +5040,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_backward_display_white.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -4819,8 +5084,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_trailer"
 		],
 		"models": [
 			{
@@ -4828,6 +5093,12 @@
 				"modelPropertiesResource": "mtr:1972_lu_experimental_blue_cheatline/london_underground_1972_cab_pas_forward.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -4866,8 +5137,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_trailer"
 		],
 		"models": [
 			{
@@ -4875,6 +5146,12 @@
 				"modelPropertiesResource": "mtr:1972_lu_experimental_blue_cheatline/london_underground_1972_cab_pas_backward.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -4914,7 +5191,7 @@
 		"tags": [
 			"family:london_underground_1972",
 			"doors:4",
-			"type:cab_1"
+			"type:trailer"
 		],
 		"models": [
 			{
@@ -4922,6 +5199,12 @@
 				"modelPropertiesResource": "mtr:1972_lu_experimental_blue_cheatline/london_underground_1972_trailer.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_trailer_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -4961,7 +5244,7 @@
 		"tags": [
 			"family:london_underground_1972",
 			"doors:4",
-			"type:cab_1"
+			"type:trailer"
 		],
 		"models": [
 			{
@@ -4969,6 +5252,12 @@
 				"modelPropertiesResource": "mtr:1972_lu_experimental_blue_cheatline/london_underground_1972_trailer_2.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_trailer_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -5007,7 +5296,7 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
+			"doors:3",
 			"type:cab_1"
 		],
 		"models": [
@@ -5022,6 +5311,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_forward_display_white.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -5060,7 +5355,7 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
+			"doors:3",
 			"type:cab_1"
 		],
 		"models": [
@@ -5075,6 +5370,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_backward_display_white.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -5113,8 +5414,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_2"
 		],
 		"models": [
 			{
@@ -5128,6 +5429,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_forward_display_white.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -5166,8 +5473,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_2"
 		],
 		"models": [
 			{
@@ -5181,6 +5488,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_backward_display_white.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -5219,8 +5532,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_trailer"
 		],
 		"models": [
 			{
@@ -5228,6 +5541,12 @@
 				"modelPropertiesResource": "mtr:1972_blue_doors/london_underground_1972_cab_pas_forward.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -5266,8 +5585,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_trailer"
 		],
 		"models": [
 			{
@@ -5275,6 +5594,12 @@
 				"modelPropertiesResource": "mtr:1972_blue_doors/london_underground_1972_cab_pas_backward.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -5314,7 +5639,7 @@
 		"tags": [
 			"family:london_underground_1972",
 			"doors:4",
-			"type:cab_1"
+			"type:trailer"
 		],
 		"models": [
 			{
@@ -5322,6 +5647,12 @@
 				"modelPropertiesResource": "mtr:1972_blue_doors/london_underground_1972_trailer.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_trailer_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -5361,7 +5692,7 @@
 		"tags": [
 			"family:london_underground_1972",
 			"doors:4",
-			"type:cab_1"
+			"type:trailer"
 		],
 		"models": [
 			{
@@ -5369,6 +5700,12 @@
 				"modelPropertiesResource": "mtr:1972_blue_doors/london_underground_1972_trailer_2.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_trailer_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -5407,7 +5744,7 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
+			"doors:3",
 			"type:cab_1"
 		],
 		"models": [
@@ -5422,6 +5759,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_forward_display_white.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -5460,7 +5803,7 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
+			"doors:3",
 			"type:cab_1"
 		],
 		"models": [
@@ -5475,6 +5818,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_backward_display_white.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -5513,8 +5862,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_2"
 		],
 		"models": [
 			{
@@ -5528,6 +5877,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_forward_display_white.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -5566,8 +5921,8 @@
 		"wikipediaArticle": "London_Underground_1972_Stock",
 		"tags": [
 			"family:london_underground_1972",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_2"
 		],
 		"models": [
 			{
@@ -5581,6 +5936,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_backward_display_white.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -5619,12 +5980,12 @@
 		"wikipediaArticle": "London_Underground_1967_Stock",
 		"tags": [
 			"family:london_underground_1967",
-			"doors:4",
+			"doors:3",
 			"type:cab_1"
 		],
 		"models": [
 			{
-				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelResource": "mtr:1967_victoria_standard/london_underground_1972.obj",
 				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_cab_forward.json",
 				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
 				"flipTextureV": true
@@ -5640,6 +6001,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_forward_display.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -5678,12 +6045,12 @@
 		"wikipediaArticle": "London_Underground_1967_Stock",
 		"tags": [
 			"family:london_underground_1967",
-			"doors:4",
+			"doors:3",
 			"type:cab_1"
 		],
 		"models": [
 			{
-				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelResource": "mtr:1967_victoria_standard/london_underground_1972.obj",
 				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_cab_backward.json",
 				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
 				"flipTextureV": true
@@ -5699,6 +6066,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_backward_display.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -5737,12 +6110,12 @@
 		"wikipediaArticle": "London_Underground_1967_Stock",
 		"tags": [
 			"family:london_underground_1967",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_2"
 		],
 		"models": [
 			{
-				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelResource": "mtr:1967_victoria_standard/london_underground_1972.obj",
 				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_cab_2_forward.json",
 				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
 				"flipTextureV": true
@@ -5758,6 +6131,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_forward_display.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -5796,12 +6175,12 @@
 		"wikipediaArticle": "London_Underground_1967_Stock",
 		"tags": [
 			"family:london_underground_1967",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_2"
 		],
 		"models": [
 			{
-				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelResource": "mtr:1967_victoria_standard/london_underground_1972.obj",
 				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_cab_2_backward.json",
 				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
 				"flipTextureV": true
@@ -5817,6 +6196,12 @@
 				"textureResource": "mtr:display/blank.png",
 				"modelPropertiesResource": "mtr:display/london_underground_1972_cab_backward_display.json",
 				"positionDefinitionsResource": "mtr:definition/london_underground_1972_display_definition.json"
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -5855,12 +6240,12 @@
 		"wikipediaArticle": "London_Underground_1967_Stock",
 		"tags": [
 			"family:london_underground_1967",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_trailer"
 		],
 		"models": [
 			{
-				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelResource": "mtr:1967_victoria_standard/london_underground_1972.obj",
 				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_cab_pas_forward.json",
 				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
 				"flipTextureV": true
@@ -5870,6 +6255,12 @@
 				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_cab_forward_extra.json",
 				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_forward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -5908,12 +6299,12 @@
 		"wikipediaArticle": "London_Underground_1967_Stock",
 		"tags": [
 			"family:london_underground_1967",
-			"doors:4",
-			"type:cab_1"
+			"doors:3",
+			"type:cab_trailer"
 		],
 		"models": [
 			{
-				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelResource": "mtr:1967_victoria_standard/london_underground_1972.obj",
 				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_cab_pas_backward.json",
 				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
 				"flipTextureV": true
@@ -5923,6 +6314,12 @@
 				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_cab_backward_extra.json",
 				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_cab_backward_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -5962,11 +6359,11 @@
 		"tags": [
 			"family:london_underground_1967",
 			"doors:4",
-			"type:cab_1"
+			"type:trailer"
 		],
 		"models": [
 			{
-				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelResource": "mtr:1967_victoria_standard/london_underground_1972.obj",
 				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_trailer.json",
 				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
 				"flipTextureV": true
@@ -5976,6 +6373,12 @@
 				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_trailer_extra.json",
 				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_trailer_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [
@@ -6015,11 +6418,11 @@
 		"tags": [
 			"family:london_underground_1967",
 			"doors:4",
-			"type:cab_1"
+			"type:trailer"
 		],
 		"models": [
 			{
-				"modelResource": "mtr:bakerloo_standard/london_underground_1972.obj",
+				"modelResource": "mtr:1967_victoria_standard/london_underground_1972.obj",
 				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_trailer_2.json",
 				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
 				"flipTextureV": true
@@ -6029,6 +6432,12 @@
 				"modelPropertiesResource": "mtr:1967_victoria_standard/london_underground_1967_trailer_extra.json",
 				"positionDefinitionsResource": "mtr:1967_victoria_standard/london_underground_1967_definition.json",
 				"flipTextureV": true
+			},
+			{
+				"modelResource": "mtr:floor/1972_floor.bbmodel",
+				"textureResource": "mtr:floor/blank.png",
+				"modelPropertiesResource": "mtr:floor/london_underground_1972_trailer_floor.json",
+				"positionDefinitionsResource": "mtr:definition/london_underground_1972_definition.json"
 			}
 		],
 		"bogie1Models": [

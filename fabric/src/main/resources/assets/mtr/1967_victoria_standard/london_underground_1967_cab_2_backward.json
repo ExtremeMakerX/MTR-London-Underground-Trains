@@ -413,7 +413,6 @@
 				"main_big_top_left",
 				"box_bottom_left_cab",
 				"cab_bottom_rest",
-				"interior_floor_car_1",
 				"end_interior_floor_car_1",
 				"cab_back_door",
 				"cab_back_door_detail",
@@ -559,26 +558,6 @@
 		},
 		{
 			"names": [
-				"left_front_real_detail_1",
-				"left_front_real_detail_2",
-				"left_front_real_detail_3",
-				"left_front_real_detail_4",
-				"left_front_real_detail_5",
-				"right_front_real_detail_1",
-				"right_front_real_detail_2",
-				"right_front_real_detail_3",	
-				"right_front_real_detail_4",
-				"right_front_real_detail_5",
-				"left_end_real_detail_1",
-				"left_end_real_detail_2",
-				"left_end_real_detail_3",
-				"left_end_real_detail_4",
-				"left_end_real_detail_5",
-				"right_end_real_detail_1",
-				"right_end_real_detail_2",
-				"right_end_real_detail_3",
-				"right_end_real_detail_4",
-				"right_end_real_detail_5",
 				"right_front_real_seat_1",
 				"right_front_real_seat_2",
 				"right_front_real_seat_3",
@@ -960,7 +939,7 @@
 				"0_position"
 			],
 		    "renderStage": "INTERIOR_TRANSLUCENT",
-			"doorZMultiplier": -11.5,
+			"doorZMultiplier": 11.5,
 			"doorAnimationType": "R179"
 		},
 		{

@@ -948,7 +948,7 @@
 				"0_position"
 			],
 		    "renderStage": "INTERIOR_TRANSLUCENT",
-			"doorZMultiplier": -11.5,
+			"doorZMultiplier": 11.5,
 			"doorAnimationType": "R179"
 		},
 		{

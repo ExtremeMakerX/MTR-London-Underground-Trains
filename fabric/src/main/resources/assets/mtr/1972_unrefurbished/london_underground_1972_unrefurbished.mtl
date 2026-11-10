@@ -41,6 +41,16 @@ d 1.000000
 illum 2
 map_Kd brown_under_body.png
 
+newmtl brown_under_body.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd brown_under_body.png
+
 newmtl cab_car_body_texture_1_standard
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -261,7 +271,27 @@ d 1.000000
 illum 2
 map_Kd dark_color.png
 
+newmtl dark_color.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd dark_color.png
+
 newmtl darker_gray
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd darker_gray.png
+
+newmtl darker_gray.001
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
@@ -282,6 +312,16 @@ illum 2
 map_Kd darker_gray.png
 
 newmtl darker_gray.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd darker_gray.png
+
+newmtl darker_gray.005
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
@@ -391,6 +431,16 @@ d 1.000000
 illum 2
 map_Kd silver_handle_color.png
 
+newmtl handle_side_panel_color.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd silver_handle_color.png
+
 newmtl headlight_front_cab.001
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -491,6 +541,16 @@ d 1.000000
 illum 2
 map_Kd interior_end_wall_texture.png
 
+newmtl interior_floor_pas_texture_mk1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd passenger_car_interior_floor_texture.png
+
 newmtl interior_floor_texture_mk1
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -541,6 +601,16 @@ d 1.000000
 illum 2
 map_Kd interior_inside_color_3.png
 
+newmtl interior_inside_color_3.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd interior_inside_color_3.png
+
 newmtl less_darker_gray
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -561,7 +631,37 @@ d 1.000000
 illum 2
 map_Kd less_darker_gray.png
 
+newmtl less_darker_gray.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd less_darker_gray.png
+
 newmtl light
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.900000 0.900000 0.900000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd light.png
+
+newmtl light.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.900000 0.900000 0.900000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd light.png
+
+newmtl light.002
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
@@ -580,6 +680,36 @@ Ni 1.500000
 d 1.000000
 illum 2
 map_Kd main_interior_side_panel_1.png
+
+newmtl passenger_car_main_body_texture_1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd passenger_car_main_body_texture_1.png
+
+newmtl passenger_middle_window_texture_1
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd passenger_middle_window_texture_1.png
+
+newmtl passenger_middle_window_texture_2
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd passenger_middle_window_texture_1.png
 
 newmtl red_door
 Ns 250.000000
@@ -671,7 +801,27 @@ d 1.000000
 illum 2
 map_Kd silver_gray.png
 
+newmtl silver_gray.002
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd silver_gray.png
+
 newmtl silver_gray.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd silver_gray.png
+
+newmtl silver_gray.005
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
@@ -711,6 +861,16 @@ d 1.000000
 illum 2
 map_Kd gray.png
 
+newmtl standard_material.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
 newmtl standard_material.002
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
@@ -721,7 +881,237 @@ d 1.000000
 illum 2
 map_Kd gray.png
 
+newmtl standard_material.003
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
+newmtl standard_material.004
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
+newmtl standard_material.005
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
 newmtl standard_material.006
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
+newmtl standard_material.010
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
+newmtl standard_material.011
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
+newmtl standard_material.012
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
+newmtl standard_material.013
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
+newmtl standard_material.014
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
+newmtl standard_material.015
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
+newmtl standard_material.016
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
+newmtl standard_material.017
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
+newmtl standard_material.018
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
+newmtl standard_material.019
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
+newmtl standard_material.020
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
+newmtl standard_material.021
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
+newmtl standard_material.022
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
+newmtl standard_material.023
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
+newmtl standard_material.024
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
+newmtl standard_material.025
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
+newmtl standard_material.026
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
+newmtl standard_material.027
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
+newmtl standard_material.028
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd gray.png
+
+newmtl standard_material.029
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000
@@ -1002,6 +1392,26 @@ illum 9
 map_Kd transparency_glass.png
 
 newmtl under_body_real_texture
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd under_body_texture_1.png
+
+newmtl under_body_real_texture.001
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd under_body_texture_1.png
+
+newmtl under_body_real_texture.002
 Ns 250.000000
 Ka 1.000000 1.000000 1.000000
 Ks 0.500000 0.500000 0.500000

@@ -550,22 +550,22 @@
 		},
 		{
 			"names": [
-				"left_handrail_big_middle_1",
-				"left_handrail_big_middle_connect_1",
-				"left_handrail_big_middle_connect_2",
-				"left_handrail_big_middle_connect_3",
-				"right_handrail_big_middle_1",
-				"right_handrail_big_middle_connect_1",
-				"right_handrail_big_middle_connect_2",
-				"right_handrail_big_middle_connect_3",
-				"left_handrail_door_end_1",
-				"left_handrail_door_end_connect_1",
-				"left_handrail_door_front_1",
-				"left_handrail_door_front_connect_1",
-				"right_handrail_door_end_1",
-				"right_handrail_door_end_connect_1",
-				"right_handrail_door_front_1",
-				"right_handrail_door_front_connect_1"
+				"left_handrail_big_middle_1_blue",
+				"left_handrail_big_middle_connect_1_blue",
+				"left_handrail_big_middle_connect_2_blue",
+				"left_handrail_big_middle_connect_3_blue",
+				"right_handrail_big_middle_1_blue",
+				"right_handrail_big_middle_connect_1_blue",
+				"right_handrail_big_middle_connect_2_blue",
+				"right_handrail_big_middle_connect_3_blue",
+				"left_handrail_door_end_1_blue",
+				"left_handrail_door_end_connect_1_blue",
+				"left_handrail_door_front_1_blue",
+				"left_handrail_door_front_connect_1_blue",
+				"right_handrail_door_end_1_blue",
+				"right_handrail_door_end_connect_1_blue",
+				"right_handrail_door_front_1_blue",
+				"right_handrail_door_front_connect_1_blue"
 			],
 			"positionDefinitions": [
 				"0_position_reverse"
@@ -989,7 +989,7 @@
 				"0_position"
 			],
 		    "renderStage": "INTERIOR_TRANSLUCENT",
-			"doorZMultiplier": -11.5,
+			"doorZMultiplier": 11.5,
 			"doorAnimationType": "R179"
 		},
 		{

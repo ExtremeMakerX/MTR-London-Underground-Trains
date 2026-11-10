@@ -539,7 +539,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/Users/Jorda/Minecraft Folder/MultiMC/instances/1.20.4 Fabric/.minecraft/resourcepacks/1972_Stock_Pack_4.0.0/assets/mtr/bakerloo_standard/interior_inside_color.png
+map_Kd interior_inside_color.png
 
 newmtl interior_inside_color_2
 Ns 250.000000
@@ -549,7 +549,7 @@ Ke 0.000000 0.000000 0.000000
 Ni 1.500000
 d 1.000000
 illum 2
-map_Kd C:/Users/Jorda/Minecraft Folder/MultiMC/instances/1.20.4 Fabric/.minecraft/resourcepacks/1972_Stock_Pack_4.0.0/assets/mtr/bakerloo_standard/interior_inside_color_2.png
+map_Kd interior_inside_color_2.png
 
 newmtl seat_texture
 Ns 250.000000

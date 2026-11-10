@@ -15,6 +15,138 @@
 					"z": 0
 				}
 			]
+		},
+		{
+			"name": "cab_doorway_2_doors",
+			"positions": [
+				{
+					"z": 43
+				},
+				{
+					"z": -43
+				}
+			]
+		},
+		{
+			"name": "cab_doorway_2_doors_flipped",
+			"positionsFlipped": [
+				{
+					"z": 43
+				},
+				{
+					"z": -43
+				}
+			]
+		},
+		{
+			"name": "cab_doorway_1_door",
+			"positions": [
+				{
+					"z": 116
+				},
+				{
+					"z": -116
+				}
+			]
+		},
+		{
+			"name": "cab_doorway_1_door_flipped",
+			"positionsFlipped": [
+				{
+					"z": 116
+				},
+				{
+					"z": -116
+				}
+			]
+		},
+			{
+			"name": "cab_doorway_1_door_reverse",
+			"positions": [
+				{
+					"z": -116
+				}
+			]
+		},
+		{
+			"name": "cab_doorway_1_door_flipped_reverse",
+			"positionsFlipped": [
+				{
+					"z": -116
+				}
+			]
+		},
+		{
+			"name": "cab_window_1_floor",
+			"positions": [
+				{
+					"z": 83.5
+				},
+				{
+					"z": -83
+				}
+			]
+		},
+		{
+			"name": "cab_window_1_floor_flipped",
+			"positionsFlipped": [
+				{
+					"z": 83.5
+				},
+				{
+					"z": -83
+				}
+			]
+		},
+			{
+			"name": "trailer_window_1_floor",
+			"positions": [
+				{
+					"z": 83.5
+				},
+				{
+					"z": 0
+				},
+				{
+					"z": -83
+				}
+			]
+		},
+		{
+			"name": "trailer_window_1_floor_flipped",
+			"positionsFlipped": [
+				{
+					"z": 83.5
+				},
+				{
+					"z": 0
+				},
+				{
+					"z": -83
+				}
+			]
+		},
+		{
+			"name": "cab_window_2_floor",
+			"positions": [
+				{
+					"z": 13
+				},
+				{
+					"z": -13
+				}
+			]
+		},
+		{
+			"name": "cab_window_2_floor_flipped",
+			"positionsFlipped": [
+				{
+					"z": 13
+				},
+				{
+					"z": -13
+				}
+			]
 		}
 	]
 }
