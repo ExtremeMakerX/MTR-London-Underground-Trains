@@ -32,3 +32,11 @@ jobs:
         with:
           name: Fabric and Forge ${{ matrix.minecraft }}
           path: build/release/
+  discord-notification:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Release Notes
+        uses: SethCohen/github-releases-to-discord@v1.20.0
+        with:
+          webhook_url: ${{ secrets.DISCORD_WEBHOOK }}
+          color: "25c4cd"
