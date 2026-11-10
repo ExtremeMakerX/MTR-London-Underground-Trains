@@ -33,6 +33,7 @@ jobs:
           name: Fabric and Forge ${{ matrix.minecraft }}
           path: build/release/
   discord-notification:
+    needs: build
     runs-on: ubuntu-latest
     steps:
       - name: Send Release Notes
